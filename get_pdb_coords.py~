@@ -1,0 +1,21 @@
+#!/usr/bin/python
+
+from Bio.PDB import *
+from Bio.PDB.PDBParser import PDBParser
+from Bio.PDB.Polypeptide import PPBuilder
+from sys import argv
+
+args = argv[1:]
+
+ppb = PPBuilder()
+pdbfile = args[0]
+pdbname = pdbfile[:-4]
+structure = PDBParser().get_structure(pdbname, pdbfile)
+
+
+
+model = structure[0]
+for chain in model:
+    for residue in chain:
+        for atom in residue:
+            print(atom.get_coord())

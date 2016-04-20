@@ -1,0 +1,75 @@
+###-------------------------------------------------
+### Input parameter file for 
+###
+###       Topological
+###        Data
+###         Analysis
+###
+### TDA is licensed from Duke University.
+### Copyright (c) 2012-14 by John Harer.
+### All rights reserved.
+###
+### Settings file consistent with version 0.0.11
+###-------------------------------------------------
+
+###-------------------------------------------------
+### Project information
+###-------------------------------------------------
+
+project =      <Topological Data Analysis in Matlab>
+user =                                    <userName>
+dataset =             	               <dataSetName>
+notes =                                      <notes>
+
+
+###-------------------------------------------------
+### Mode(s) selection
+###-------------------------------------------------
+
+applicationMode =                                api
+
+
+# use this, e.g., for omitting all output when
+# running the test suite (note that individual calls
+# to API methods can still override the setting)
+#suppressAllOutput =                              yes
+
+###-------------------------------------------------
+### Task and Algorithm selection
+###-------------------------------------------------
+
+## task choice shouldn't be specified in config file
+
+###-------------------------------------------------
+### "internal settings"
+###-------------------------------------------------
+
+# this switches the internal data representation
+# automatically to a "sparse" one for data sizes 
+# greater than:
+switchToSparseAt = 5000
+         
+
+###-------------------------------------------------
+### Metric selection (L2, Lp, Linf)
+###-------------------------------------------------
+
+metricChoice =                                    L2
+p_valueForLpMetric =                               2
+
+
+
+###-------------------------------------------------
+### Perform computations in Z/Zp (default p=2)
+###-------------------------------------------------
+
+#zp_value =                                         2
+
+###-------------------------------------------------
+### Input and output locations
+###-------------------------------------------------
+
+inputDirectory =                    
+outputDirectory =                  
+reportFile =                        results.@TS@.txt
+
