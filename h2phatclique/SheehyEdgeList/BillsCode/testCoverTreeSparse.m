@@ -1,4 +1,4 @@
-addpath('../PointClouds');
+%addpath('../PointClouds');
 NTHREADS=int32(4);
 
 %Create a set of random sparse vectors (seeded)
