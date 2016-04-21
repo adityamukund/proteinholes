@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/rann/math/phatclique/h2phatclique/cliquer-1.21/cliquerconf.h
+
+/home/rann/math/phatclique/h2phatclique/cliquer-1.21/graph.c
+stdio.h
+-
+ctype.h
+-
+string.h
+-
+graph.h
+/home/rann/math/phatclique/h2phatclique/cliquer-1.21/graph.h
+
+/home/rann/math/phatclique/h2phatclique/cliquer-1.21/graph.h
+set.h
+/home/rann/math/phatclique/h2phatclique/cliquer-1.21/set.h
+
+/home/rann/math/phatclique/h2phatclique/cliquer-1.21/misc.h
+cliquerconf.h
+/home/rann/math/phatclique/h2phatclique/cliquer-1.21/cliquerconf.h
+stdio.h
+-
+stdlib.h
+-
+
+/home/rann/math/phatclique/h2phatclique/cliquer-1.21/set.h
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+limits.h
+-
+misc.h
+/home/rann/math/phatclique/h2phatclique/cliquer-1.21/misc.h
+

@@ -1,0 +1,2 @@
+/usr/bin/ar qc libcliquer.a  CMakeFiles/cliquer.dir/cliquer.c.o
+/usr/bin/ranlib libcliquer.a
