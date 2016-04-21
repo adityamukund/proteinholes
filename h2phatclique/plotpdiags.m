@@ -25,7 +25,8 @@ end
 for i=1:maxdim
     if size(seppairs{i},1)>0 
         figure;
-
+        
+        
         % plot birth/death pairs
         scatter(seppairs{i}(:,1),seppairs{i}(:,2),'filled');
     
@@ -42,7 +43,12 @@ for i=1:maxdim
             plot([x -x],[y y],'k','LineWidth',2);
         hold off
         end
+
+        title(sprintf('Betti %d',i-1));
+        ylabel('Death');
+        xlabel('Birth');
         
+
     axis tight    
     end
 end
@@ -54,7 +60,7 @@ for i=1:maxdim
         if size(seppairs{i},1)>0 
         figure;
 
-        % plot birth/death pairs
+% %         % plot birth/death pairs
         scatter(seppairs{i}(:,1),seppairs{i}(:,2),'filled');
     
         % add line x=y if dim>0 or line x=0 if dim=0
