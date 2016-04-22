@@ -1,0 +1,1 @@
+/usr/bin/c++    -fomit-frame-pointer -fexpensive-optimizations -O3 -std=c++11 -march=native -fopenmp -O3 -DNDEBUG  -static-libgcc -static-libstdc++ -static CMakeFiles/phatclique.dir/bcliques.cpp.o  -o phatclique -rdynamic -lboost_program_options cliquer-1.21/libcliquer.a cliquer-1.21/libgraph.a cliquer-1.21/libreorder.a 

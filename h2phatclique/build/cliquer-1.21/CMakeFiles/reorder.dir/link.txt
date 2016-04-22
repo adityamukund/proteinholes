@@ -1,0 +1,2 @@
+/usr/bin/ar qc libreorder.a  CMakeFiles/reorder.dir/reorder.c.o
+/usr/bin/ranlib libreorder.a

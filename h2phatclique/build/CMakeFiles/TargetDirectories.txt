@@ -1,0 +1,4 @@
+/home/rann/math/phatclique/h2phatclique/build/CMakeFiles/phatclique.dir
+/home/rann/math/phatclique/h2phatclique/build/cliquer-1.21/CMakeFiles/reorder.dir
+/home/rann/math/phatclique/h2phatclique/build/cliquer-1.21/CMakeFiles/graph.dir
+/home/rann/math/phatclique/h2phatclique/build/cliquer-1.21/CMakeFiles/cliquer.dir
