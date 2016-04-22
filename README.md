@@ -23,6 +23,7 @@ from...
 
 phatclique.zip is a zip file of all the code you need to run phatclique.
 **Note:** you may need to remake the mexa file for SlowSparseEdgeList. 
+
 ---
 
 To get this to work (after opening matlab):
