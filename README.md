@@ -20,6 +20,9 @@ from...
 6. a redesign of core residues of a scorpion protein toxin (1aho)
 7. a redesign of core residues of rous sarcoma virus capsid protein (3g21)
 
+
+phatclique.zip is a zip file of all the code you need to run phatclique.
+**Note:** you may need to remake the mexa file for SlowSparseEdgeList. 
 ---
 
 To get this to work (after opening matlab):
