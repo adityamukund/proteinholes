@@ -1,4 +1,4 @@
-# proteinholes
+# Persistent homology of designed proteins
 
 Final project for Math 412, taught by Paul Bendich.
 
@@ -10,6 +10,9 @@ I think works, but cannot guarantee works)
 tdatools contains the tdatools code, which is needed by h2phatclique
 
 data contains our dataset
+
+classifier contains attempts to train classifiers on the dataset to look at the 
+similarity of various types of designed proteins
 
 test contains initial systems we've tested on -- as of 2016/04/21, these include:
 
@@ -25,11 +28,11 @@ from...
 
 phatclique.zip is a zip file of all the code you need to run phatclique.
 
-**Note:** you may need to remake the mexa file for SlowSparseEdgeList. 
-
 ---
 
 To get this to work (after opening matlab):
+
+**Note:** you may need to remake the mexa file for SlowSparseEdgeList. 
 
 1. Add h2phatclique and all subfolders to your path
 2. Run `h2phatclique/SheehyEdgeList/init.m`

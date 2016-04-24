@@ -4,8 +4,7 @@ import numpy as np
 import sys
 import os
 import csv
-from sklearn.ensemble import RandomForestClassifier
-
+from sklearn.discriminant_analysis import LinearDiscriminantAnalysis
 
 print("Loading data...")
 ell = np.loadtxt(open("persistences/persist_ell.csv", "rb"), delimiter=",", skiprows=1)
@@ -25,7 +24,7 @@ print("CONTINUOUS VS. RIGID")
 print("Training data: ellipse/voxel vs rigid...")
 trainingSet = np.vstack((ell, vox, rig)).tolist()
 labels = label_c + label_r
-clf = RandomForestClassifier()
+clf = LinearDiscriminantAnalysis()
 clf.fit(trainingSet, labels)
 print("Testing on wild type...")
 predictions = clf.predict(wtr.tolist())
@@ -40,7 +39,7 @@ print("ELLIPSE VS. RIGID")
 print("Training data: ellipse vs. rigid...")
 trainingSet = np.vstack((ell, rig)).tolist()
 labels = label_e + label_r
-clf = RandomForestClassifier()
+clf = LinearDiscriminantAnalysis()
 clf.fit(trainingSet, labels)
 print("Testing on voxels...")
 predictions = clf.predict(vox.tolist())
@@ -55,7 +54,7 @@ print("VOXEL VS. RIGID")
 print("Training data: voxel vs. rigid...")
 trainingSet = np.vstack((vox, rig)).tolist()
 labels = label_v + label_r
-clf = RandomForestClassifier()
+clf = LinearDiscriminantAnalysis()
 clf.fit(trainingSet, labels)
 print("Testing on ellipses...")
 predictions = clf.predict(ell.tolist())
@@ -70,7 +69,7 @@ print("VOXEL VS ELLIPSE")
 print("Training data: voxel vs. ellipse...")
 trainingSet = np.vstack((ell, vox)).tolist()
 labels = label_e + label_v
-clf = RandomForestClassifier()
+clf = LinearDiscriminantAnalysis()
 clf.fit(trainingSet, labels)
 print("Testing on rigid...")
 predictions = clf.predict(rig.tolist())
@@ -85,7 +84,7 @@ print("WILD TYPE SIMILARITY")
 print("Training data: voxel vs. ellipse vs. rigid...")
 trainingSet = np.vstack((ell, vox, rig)).tolist()
 labels = label_e + label_v + label_r
-clf = RandomForestClassifier()
+clf = LinearDiscriminantAnalysis()
 clf.fit(trainingSet, labels)
 print("Testing on wild type...")
 predictions = clf.predict(wtr.tolist())
