@@ -17,7 +17,7 @@ while read line; do
   cd rig
   pymol -qrc ../../../scripts/save_molec.py -- ${line:0:4} ${line:5}
   python ../../../scripts/save_coords.py ${pdb}
-  matlab -nodisplay -nosplash -nodesktop -r "pdb='${pdb}';dir='$PWD'; run('../../../scripts/save_dimacs.m'); exit;"
+  #matlab -nodisplay -nosplash -nodesktop -r "pdb='${pdb}';dir='$PWD'; run('../../../scripts/save_dimacs.m'); exit;"
   cd ..
 
   # vox
