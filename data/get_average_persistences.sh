@@ -15,10 +15,10 @@ do
   cd ..
 
   # rig
-  #echo "RIGID:"
-  #cd rig
-  #python ../../../scripts/get_average_persistences.py ${pdb}.ph
-  #cd ..
+  echo "RIGID:"
+  cd rig
+  strr=$(python ../../../scripts/get_average_persistences.py ${pdb}.ph)
+  cd ..
 
   # vox
   echo "VOXELS:"
@@ -33,6 +33,7 @@ do
   cd ..
 
   echo $strw >> ../average_wtr.txt
+  echo $strr >> ../average_rig.txt
   echo $strv >> ../average_vox.txt
   echo $stre >> ../average_ell.txt
 

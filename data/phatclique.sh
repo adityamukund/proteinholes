@@ -2,7 +2,7 @@
 # ---------------------------
 #$ -cwd
 #$ -N phatclique
-#$ -o phatclique.out -j y
+#$ -o phatclique_rig.out -j y
 #$ -l mem_free=64g
 # ---------------------------
 
