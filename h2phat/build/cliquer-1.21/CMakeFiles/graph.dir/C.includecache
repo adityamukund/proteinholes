@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/usr/project/dlab/Users/am439/holes/h2phat/cliquer-1.21/cliquerconf.h
+
+/usr/project/dlab/Users/am439/holes/h2phat/cliquer-1.21/graph.c
+stdio.h
+-
+ctype.h
+-
+string.h
+-
+graph.h
+/usr/project/dlab/Users/am439/holes/h2phat/cliquer-1.21/graph.h
+
+/usr/project/dlab/Users/am439/holes/h2phat/cliquer-1.21/graph.h
+set.h
+/usr/project/dlab/Users/am439/holes/h2phat/cliquer-1.21/set.h
+
+/usr/project/dlab/Users/am439/holes/h2phat/cliquer-1.21/misc.h
+cliquerconf.h
+/usr/project/dlab/Users/am439/holes/h2phat/cliquer-1.21/cliquerconf.h
+stdio.h
+-
+stdlib.h
+-
+
+/usr/project/dlab/Users/am439/holes/h2phat/cliquer-1.21/set.h
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+limits.h
+-
+misc.h
+/usr/project/dlab/Users/am439/holes/h2phat/cliquer-1.21/misc.h
+

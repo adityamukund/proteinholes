@@ -1,0 +1,140 @@
+This package computes persistence diagrams for point clouds using a clique 
+finder, a function that computes the boundary map of a set of cliques, and 
+PHAT.  It also includes code to reduce the potential number of edges input
+into the clique finder using cover tree code developed by William Allard
+at Duke University, and adapted to the purposes of this package by
+Christopher Traile.
+
+The package has been tested on Linux machines, and to a limited extent,on 
+OS X.  If you compile them yourself on another platform, please let the author 
+know!
+
+Author: Rann Bar-On (rann@math.duke.edu)
+
+Note: all lines starting with '$' in this README should be typed into the Linux
+command line.  All lines starting with '>>' should be typed at the MATLAB
+prompt.
+
+IMPORTANT: If you have the binary package, skip ahead to 'Usage'.  
+
+----------------------------------------
+Getting the repository
+----------------------------------------
+
+Assuming you have access, the following should work.  Enter these commands
+at the Linux command prompt:
+
+$ mkdir phatclique
+$ cd phatclique
+$ git init
+$ git clone git@git.math.duke.edu:rann/h2phatclique.git --branch ccode --single-branch
+
+----------------------------------------
+Compiling
+----------------------------------------
+
+Dependencies: Boost, OpenMPI.
+
+In the directory containing this README file, type the following commands
+at the Linux prompt:
+
+$ mkdir build
+$ cd build
+$ cmake ..
+$ make
+
+This should (hopefully!) compile the program, creating an executable named
+'phatclique' in the build directory.
+
+----------------------------------------
+Usage
+----------------------------------------
+
+To get started, import your point cloud into a matlab matrix X.  The format of a 
+point cloud matrix should be n rows by d columns, where n is the number of 
+points in the cloud, and d their dimension.
+
+1. To compute a weighted edge list, you have two options:
+
+    a. Compute the complete edge list: Use the utility script PCtoEdges(X).
+
+            >> WS = PCtoEdges(X)
+  
+       This scripts takes no additional parameters.
+
+    b. Compute a reduced edge list: Use the ctree function to produce a 
+       reduced edge list.  
+
+            >> WS = ctree(X, theta, numlevels, epsilon)  
+
+       Questions regarding the cover tree should be asked of Chris Traile
+       (chris.tralie@gmail.com).  The author of this package has been using
+       the following parameters in testing: theta=0.5, numlevels=20, 
+       epsilon = 1/3. Theta can take any value in (0,1), numlevels is any 
+       positive integer, and epsilon can take any value in [0,1/3].
+
+2. Create an extended DIMACS file that can be read by phatclique:
+
+        >> makedimacs(WS,numvertices,filename);
+
+    where WS is your edge list from the previous command; numvertices is
+    the number of vertices in your point cloud (size(X,1), if you wish);
+    and filename is the name of the file to output to.
+
+3.  From the Linux command line, run phatclique:
+
+        $ phatclique -i inputfile -m maxsize -o outputfile [-b boundarymatrixoutputfile]
+
+    where inputfile is the file you created in step 2, m is the maximum
+    clique size (i.e. dim + 1 -- to compute up to H_2, use clique size 4); 
+    and outputfile is the name of the output file.  The last argument is 
+    optional, indicating that you wish to save the unreduced boundary 
+    matrix to the named file.
+
+
+4.  Read the output file into Matlab and plot diagrams:
+
+        >> plotpdiags('outputfilename');
+
+----------------------------------------
+Sample Run
+----------------------------------------
+
+>> n=100;
+>> X=randn(n,3);
+>> X = bsxfun(@times, 1./sqrt(sum(X.^2, 2)), X);
+>> WS = ctree(X,0.5,20,1/3);
+>> makedimacs(WS,n,'100ptsfromspherectreedimacs.txt');
+
+	computing cover tree from point cloud
+	getting edge list from cover tree and sorting by weight
+	Cover tree reduced the number of edges from 4950 to 4098, a reduction of 17.2%
+		
+$ ./phatclique -i 100ptsfromspherectreedimacs.txt -m 4 -o 100ptsfromspherectreeresults.txt -b 100ptsfromspherectreebmatrix.txt
+
+	Reading input file....DONE! (time taken: 0.0112071 seconds)
+	Using Cliquer to compute cliques....DONE! (time taken: 1.52788 seconds)
+	Transforming boundary matrix from vertices to faces....DONE! (time taken: 0.474714 seconds)
+	Outputting boundary matrix to 100ptsfromspherectreebmatrix.txt....DONE! (time taken: 3.73855 seconds)
+	Reducing boundary matrix using PHAT....DONE! (time taken: 0.928968 seconds)
+	Outputting persistence pairs to 100ptsfromspherectreeresults.txt....DONE! (time taken: 0.272035 seconds)
+
+>> plotpdiags('100ptsfromspherectreeresults.txt')
+
+----------------------------------------
+Test files
+----------------------------------------
+
+Extended DIMACS files sampling 50, 100, 150, 200, and 250 points 
+from a sphere can be found in the tests directory.  They were generated
+as follows (for 250 points):
+
+>> n=250;
+>> X=randn(n,3);
+>> X = bsxfun(@times, 1./sqrt(sum(X.^2, 2)), X);
+>> WS = PCtoEdges(X)
+>> makedimacs(WS,n,'250ptsfromspheredimacs.txt');
+
+In addition, the tests directory contains a very simple example of a
+point cloud in the tettest.mat file.  The file tettestdimacs.txt contains
+the results of running phatclique on this file.

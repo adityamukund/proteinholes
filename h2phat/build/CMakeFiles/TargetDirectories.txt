@@ -1,0 +1,4 @@
+/usr/project/dlab/Users/am439/holes/h2phat/build/cliquer-1.21/CMakeFiles/cliquer.dir
+/usr/project/dlab/Users/am439/holes/h2phat/build/cliquer-1.21/CMakeFiles/graph.dir
+/usr/project/dlab/Users/am439/holes/h2phat/build/CMakeFiles/phatclique.dir
+/usr/project/dlab/Users/am439/holes/h2phat/build/cliquer-1.21/CMakeFiles/reorder.dir
