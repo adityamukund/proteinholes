@@ -1,0 +1,476 @@
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=mex 2015.3.3)  23 APR 2016 22:38
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**SlowSparseEdgeList.cpp
+(./SlowSparseEdgeList.cpp
+This is MeX  Version 1.05  18 XII 1993  (B. Jackowski & M. Ry\'cko)
+! You can't use `macro parameter character #' in horizontal mode.
+l.4 #
+     include <mex.h>
+? 
+! You can't use `macro parameter character #' in horizontal mode.
+l.5 #
+     include <stdio.h>
+? 
+! You can't use `macro parameter character #' in horizontal mode.
+l.6 #
+     include <stdlib.h>
+? ?
+Type <return> to proceed, S to scroll future error messages,
+R to run without stopping, Q to run quietly,
+I to insert something, E to edit your file,
+1 or ... or 9 to ignore the next 1 to 9 tokens of input,
+H for help, X to quit.
+? Q
+OK, entering \batchmode...
+! You can't use `macro parameter character #' in horizontal mode.
+l.7 #
+     include <string.h>
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.8 #
+     include <math.h>
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.9 #
+     include <iostream>
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.10 #
+      include <algorithm>
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.11 #
+      include <vector>
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.12 #
+      include <assert.h>
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.13 #
+      include <map>
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   _
+l.18 //Return the squared distance between X_
+                                             i and X_j
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   \par 
+l.28 
+     
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (557.38954pt too wide) in paragraph at lines 18--28
+[]\tenrm //Return the squ-ared di-stance be-tween X$[]\teni andX[]doublegetSqrD
+ist\tenrm (\teni double \tensy ^^C \teni X; intN; intD; inti; intj\tenrm )[]$ |
+
+
+\hbox(7.5+2.86108)x469.75499, glue set - 1.0
+.\hbox(0.0+0.0)x20.0
+.\tenrm /
+.\tenrm /
+.\tenrm R
+.\tenrm e
+.etc.
+
+! Misplaced alignment tab character &.
+l.53 	if (alpha >= (1-2*eps)*tp &
+                                 & alpha <= tp && alpha <= (1-2*eps)*tq) {
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.53 	if (alpha >= (1-2*eps)*tp &&
+                                   alpha <= tp && alpha <= (1-2*eps)*tq) {
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.53 	if (alpha >= (1-2*eps)*tp && alpha <= tp &
+                                                & alpha <= (1-2*eps)*tq) {
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.53 	if (alpha >= (1-2*eps)*tp && alpha <= tp &&
+                                                  alpha <= (1-2*eps)*tq) {
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   _
+l.89 	size_
+           t N, D, NLevels;
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   \par 
+l.90 
+     
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (16.34218pt too wide) in paragraph at lines 91--101
+[]\tenrm //X ma-trix int ndim = mxGet-Num-be-rO-fDi-men-sions(InArray[0]); if (
+ndim != 2)  me-xEr-rMsg-Txt("Expecting|
+
+\hbox(7.5+2.5)x469.75499, glue set - 1.0
+.\hbox(0.0+0.0)x20.0
+.\tenrm /
+.\tenrm /
+.\tenrm X
+.\glue 3.33333 plus 1.66498 minus 1.11221
+.etc.
+
+
+Overfull \hbox (67.7878pt too wide) in paragraph at lines 128--133
+[]\tenrm if (nI-nAr-ray < 4)  me-xEr-rMsg-Txt("Expecting theta as fo-urth in-pu
+t"); re-turn;  theta = *((do-uble*)mxGetPr(InArray[3])); |
+
+\hbox(7.5+2.5)x469.75499, glue set - 1.0
+.\hbox(0.0+0.0)x20.0
+.\tenrm i
+.\tenrm f
+.\glue 3.33333 plus 1.66666 minus 1.11111
+.\tenrm (
+.etc.
+
+
+Overfull \hbox (121.56569pt too wide) in paragraph at lines 134--139
+[]\tenrm if (nI-nAr-ray < 5)  me-xEr-rMsg-Txt("Expecting root le-vel as fi-fth 
+in-put"); re-turn;  ro-otLe-vel = (int)(*((double*)mxGetPr(InArray[4]))); |
+
+\hbox(7.5+2.5)x469.75499, glue set - 1.0
+.\hbox(0.0+0.0)x20.0
+.\tenrm i
+.\tenrm f
+.\glue 3.33333 plus 1.66666 minus 1.11111
+.\tenrm (
+.etc.
+
+
+Overfull \hbox (73.42668pt too wide) in paragraph at lines 140--145
+[]\tenrm if (nI-nAr-ray < 6)  me-xEr-rMsg-Txt("Expecting ep-si-lon as fi-fth in
+-put"); re-turn;  ep-si-lon = *((do-uble*)mxGetPr(InArray[5])); |
+
+\hbox(7.5+2.5)x469.75499, glue set - 1.0
+.\hbox(0.0+0.0)x20.0
+.\tenrm i
+.\tenrm f
+.\glue 3.33333 plus 1.66666 minus 1.11111
+.\tenrm (
+.etc.
+
+
+Overfull \hbox (7.32921pt too wide) in paragraph at lines 148--151
+[]\tenrm vector<int> e1List;//Edges end-po-int 1 vec-tor<int> e2List;//Edges en
+d-po-int 2 vec-tor<double> edList;//Edges|
+
+\hbox(7.5+2.5)x469.75499, glue set - 1.0
+.\hbox(0.0+0.0)x20.0
+.\tenrm v
+.\kern-0.27779
+.\tenrm e
+.\tenrm c
+.etc.
+
+! Misplaced alignment tab character &.
+l.166 			getEdge(i, j, X, N, D, ts, &
+                                     e1, &e2, &ed, epsilon);
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.166 			getEdge(i, j, X, N, D, ts, &e1, &
+                                          e2, &ed, epsilon);
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.166 			getEdge(i, j, X, N, D, ts, &e1, &e2, &
+                                               ed, epsilon);
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.167 			if (e1 != -1 &
+                       & e2 != -1) {
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.167 			if (e1 != -1 &&
+                         e2 != -1) {
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   _
+l.168 				e1List.push_
+                      back(e1);
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Extra }, or forgotten $.
+l.171 			}
+          
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Extra }, or forgotten $.
+l.172 		}
+         
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Extra }, or forgotten $.
+l.173 	}
+        
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   \par 
+l.174 
+      
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (130.70357pt too wide) in paragraph at lines 161--174
+\tenrm do-uble ed; ge-tEdge(i, j, X, N, D, ts, e1, e2, ed, ep-si-lon); if (e1 !
+= -1  e2 != -1)  e1List.push$[]\teni ack\tenrm (\teni e\tenrm 1); \teni e\tenrm
+ 2\teni List:push[]ack\tenrm (\teni e\tenrm 2); \teni edList:push[]ack\tenrm (\
+teni ed\tenrm );$ |
+
+\hbox(7.5+2.5)x469.75499, glue set - 1.0
+.\tenrm d
+.\tenrm o
+.\discretionary
+..\tenrm -
+.\tenrm u
+.\tenrm b
+.etc.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   _
+l.177 	size_
+            t M = e1List.size() + N;
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   \par 
+l.191 
+      
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (306.64288pt too wide) in paragraph at lines 176--191
+\teni newdouble\tenrm [\teni M \tensy ^^C \tenrm 3]; \teni ==Addentriesforpoint
+sfirstfor\tenrm (\teni size[]i \tenrm = 0; \teni i < N\tenrm ; \teni i \tenrm +
+ +)[]\teni ==Nowaddedgesbetweenpointsfor\tenrm (\teni size[]i \tenrm =|
+
+\hbox(7.5+2.5)x469.75499, glue set - 1.0
+.\teni n
+.\teni e
+.\teni w
+.\kern0.26909
+.\teni d
+.etc.
+
+
+Overfull \hbox (28.30937pt too wide) in paragraph at lines 176--191
+\teni N\tenrm ; \teni i < M\tenrm ; \teni i \tenrm + +)[]$ |
+
+\hbox(7.5+2.5)x469.75499, glue set - 1.0
+.\teni N
+.\kern1.09026
+.\tenrm ;
+.\glue(\thinmuskip) 1.66663
+.\teni i
+.etc.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   _
+l.195 ...xCreateNumericArray(2, outdims, mxDOUBLE_
+                                                  CLASS, mxREAL);
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   \par 
+l.198 
+      
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (90.27635pt too wide) in paragraph at lines 192--198
+\tenrm mxDOUBLE$[]\teni LASS; mxREAL\tenrm ); \teni double \tensy ^^C \teni edg
+eListOut \tenrm = (\teni double\tensy ^^C\tenrm )\teni mxGetPr\tenrm (\teni Out
+Array\tenrm [0]); \teni memcpy\tenrm (\teni edgeListOut; edgeList; M \tensy ^^C
+|
+
+\hbox(7.5+2.5)x469.75499, glue set - 1.0
+.\tenrm m
+.\tenrm x
+.\tenrm D
+.\tenrm O
+.\tenrm U
+.etc.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   _
+l.201 ...xCreateNumericArray(2, outdims, mxDOUBLE_
+                                                  CLASS, mxREAL);
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   \par 
+l.204 
+      
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (93.19539pt too wide) in paragraph at lines 199--204
+[]\tenrm outdims[0] = N; out-dims[1] = 1; OutAr-ray[1] = mxCre-ate-Nu-me-ri-cAr
+-ray(2, out-dims, mxDOUBLE$[]\teni LASS; mxREAL\tenrm ); \teni double \tensy ^^
+C|
+
+\hbox(7.5+2.5)x469.75499, glue set - 1.0
+.\hbox(0.0+0.0)x20.0
+.\tenrm o
+.\tenrm u
+.\tenrm t
+.\tenrm d
+.etc.
+
+)
+! Emergency stop.
+<*> SlowSparseEdgeList.cpp
+                          
+*** (job aborted, no legal \end found)
+
+No pages of output.
