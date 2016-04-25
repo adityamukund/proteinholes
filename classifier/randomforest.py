@@ -56,7 +56,7 @@ def test_clf(a, b, t, la, lb, lt):
     print("Training data: "+la[0]+" vs "+lb[0])
     trainingSet = np.vstack((a,b)).tolist()
     labels = la + lb
-    clf = RandomForestClassifier()
+    clf = RandomForestClassifier(random_state=2)
     clf.fit(trainingSet, labels)
     predictions = clf.predict(wtr.tolist())
     counts = dict.fromkeys([la[0], lb[0]], 0)
