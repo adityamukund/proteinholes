@@ -1,27 +1,19 @@
 Loading data...
+Euclidean distances:
+wtr ==> {'ell': 16, 'vox': 13, 'wtr': 10}
 
-CONTINUOUS VS. RIGID
-Training data: ellipse/voxel vs rigid...
-Testing on wild type...
-Number of continuous predictions: 39/39
+Training data: ell vs vox
+wtr ==> {'vox': 9, 'ell': 30}
 
-ELLIPSE VS. RIGID
-Training data: ellipse vs. rigid...
-Testing on voxels...
-Number of ellipse predictions: 0/39
+Training data: rig vs vox
+ell ==> {'rig': 19, 'vox': 20}
 
-VOXEL VS. RIGID
-Training data: voxel vs. rigid...
-Testing on ellipses...
-Number of voxel predictions: 14/39
+Training data: ell vs rig
+vox ==> {'rig': 7, 'ell': 32}
 
-VOXEL VS ELLIPSE
-Training data: voxel vs. ellipse...
-Testing on rigid...
-Number of voxel predictions: 39/39
+Training data: vox vs ell
+rig ==> {'vox': 19, 'ell': 20}
 
-WILD TYPE SIMILARITY
-Training data: voxel vs. ellipse vs. rigid...
-Testing on wild type...
-Number of voxel predictions: 2/39
-Number of ellipse predictions: 33/39
+Training data: con vs rig
+wtr ==> {'con': 36, 'rig': 3}
+

@@ -7,6 +7,7 @@ import numpy as np
 
 args = sys.argv[1:]
 
+pers0 = []
 pers1 = []
 pers2 = []
 
@@ -18,10 +19,13 @@ for line in iter(f):
         pers1.append(persistence)
     elif (int(split[0])==2):
         pers2.append(persistence)
+    elif (int(split[0])==0):
+        pers0.append(persistence)
 f.close()
+pers0 = sorted(pers0, key=lambda x:-x)[0:100]
 pers1 = sorted(pers1, key=lambda x:-x)[0:100]
 pers2 = sorted(pers2, key=lambda x:-x)[0:100]
-pers = [str(x) for x in pers1+pers2]
+pers = [str(x) for x in pers0+pers1+pers2]
 
 outfile = open(args[1], 'a')
 print(",".join(pers), file=outfile)
