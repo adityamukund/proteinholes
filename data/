@@ -1,0 +1,36 @@
+#!/bin/bash
+
+while read line
+do
+  pdb=${line:0:4}
+  cd $pdb
+
+  echo
+  echo "${pdb}"
+
+  # wtr
+  echo "WILD TYPE:"
+  cd wtr
+  ../../../h2phat/build/phatclique -i "${pdb}".dm -m 4 -o "${pdb}".ph
+  cd ..
+
+  # rig
+  echo "RIGID:"
+  cd rig
+  ../../../h2phat/build/phatclique -i "${pdb}".dm -m 4 -o "${pdb}".ph
+  cd ..
+
+  # vox
+  echo "VOXELS:"
+  cd vox
+  ../../../h2phat/build/phatclique -i "${pdb}".dm -m 4 -o "${pdb}".ph
+  cd ..
+
+  # ell
+  echo "ELLIPSES:"
+  cd ell
+  ../../../h2phat/build/phatclique -i "${pdb}".dm -m 4 -o "${pdb}".ph
+  cd ..
+
+  cd ..
+done < muts.txt

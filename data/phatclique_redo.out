@@ -1,0 +1,1042 @@
+Warning: no access to tty (Bad file descriptor).
+Thus no job control in this shell.
+
+1AHO
+WILD TYPE:
+Reading input file....DONE! (time taken: 0.925877 seconds)
+Using Cliquer to compute cliques....DONE! (time taken: 11.5566 seconds)
+Transforming boundary matrix from vertices to faces....DONE! (time taken: 2.14034 seconds)
+Reducing boundary matrix using PHAT....DONE! (time taken: 5.67367 seconds)
+Outputting persistence pairs to 1AHO.ph....DONE! (time taken: 1.14 seconds)
+RIGID:
+Reading input file....DONE! (time taken: 0.0861101 seconds)
+Using Cliquer to compute cliques....DONE! (time taken: 13.0252 seconds)
+Transforming boundary matrix from vertices to faces....DONE! (time taken: 2.26747 seconds)
+Reducing boundary matrix using PHAT....DONE! (time taken: 6.58124 seconds)
+Outputting persistence pairs to 1AHO.ph....DONE! (time taken: 0.942626 seconds)
+VOXELS:
+Reading input file....DONE! (time taken: 0.0593583 seconds)
+Using Cliquer to compute cliques....DONE! (time taken: 13.3792 seconds)
+Transforming boundary matrix from vertices to faces....DONE! (time taken: 2.16712 seconds)
+Reducing boundary matrix using PHAT....DONE! (time taken: 6.8139 seconds)
+Outputting persistence pairs to 1AHO.ph....DONE! (time taken: 0.969402 seconds)
+ELLIPSES:
+Reading input file....DONE! (time taken: 0.0591202 seconds)
+Using Cliquer to compute cliques....DONE! (time taken: 13.6141 seconds)
+Transforming boundary matrix from vertices to faces....DONE! (time taken: 2.26984 seconds)
+Reducing boundary matrix using PHAT....DONE! (time taken: 7.93794 seconds)
+Outputting persistence pairs to 1AHO.ph....DONE! (time taken: 1.0069 seconds)
+
+1F94
+WILD TYPE:
+Reading input file....DONE! (time taken: 0.0964109 seconds)
+Using Cliquer to compute cliques....DONE! (time taken: 13.2494 seconds)
+Transforming boundary matrix from vertices to faces....DONE! (time taken: 2.31956 seconds)
+Reducing boundary matrix using PHAT....DONE! (time taken: 6.98513 seconds)
+Outputting persistence pairs to 1F94.ph....DONE! (time taken: 1.0258 seconds)
+RIGID:
+Reading input file....DONE! (time taken: 0.0742797 seconds)
+Using Cliquer to compute cliques....DONE! (time taken: 6.24726 seconds)
+Transforming boundary matrix from vertices to faces....DONE! (time taken: 1.09572 seconds)
+Reducing boundary matrix using PHAT....DONE! (time taken: 3.1669 seconds)
+Outputting persistence pairs to 1F94.ph....DONE! (time taken: 0.607682 seconds)
+VOXELS:
+Reading input file....DONE! (time taken: 0.0714768 seconds)
+Using Cliquer to compute cliques....DONE! (time taken: 8.95823 seconds)
+Transforming boundary matrix from vertices to faces....DONE! (time taken: 1.63327 seconds)
+Reducing boundary matrix using PHAT....DONE! (time taken: 4.33051 seconds)
+Outputting persistence pairs to 1F94.ph....DONE! (time taken: 0.907603 seconds)
+ELLIPSES:
+Reading input file....DONE! (time taken: 0.0736881 seconds)
+Using Cliquer to compute cliques....DONE! (time taken: 11.4359 seconds)
+Transforming boundary matrix from vertices to faces....DONE! (time taken: 2.13338 seconds)
+Reducing boundary matrix using PHAT....DONE! (time taken: 6.58197 seconds)
+Outputting persistence pairs to 1F94.ph....DONE! (time taken: 1.13651 seconds)
+
+1I27
+WILD TYPE:
+Reading input file....DONE! (time taken: 0.0728262 seconds)
+Using Cliquer to compute cliques....DONE! (time taken: 51.5719 seconds)
+Transforming boundary matrix from vertices to faces....DONE! (time taken: 8.88339 seconds)
+Reducing boundary matrix using PHAT....DONE! (time taken: 27.0791 seconds)
+Outputting persistence pairs to 1I27.ph....DONE! (time taken: 2.52346 seconds)
+RIGID:
+Reading input file....DONE! (time taken: 0.0676812 seconds)
+Using Cliquer to compute cliques....DONE! (time taken: 38.6826 seconds)
+Transforming boundary matrix from vertices to faces....DONE! (time taken: 6.64957 seconds)
+Reducing boundary matrix using PHAT....DONE! (time taken: 19.9447 seconds)
+Outputting persistence pairs to 1I27.ph....DONE! (time taken: 2.16222 seconds)
+VOXELS:
+Reading input file....DONE! (time taken: 0.0682855 seconds)
+Using Cliquer to compute cliques....DONE! (time taken: 53.5921 seconds)
+Transforming boundary matrix from vertices to faces....DONE! (time taken: 7.2352 seconds)
+Reducing boundary matrix using PHAT....DONE! (time taken: 25.5075 seconds)
+Outputting persistence pairs to 1I27.ph....DONE! (time taken: 3.08105 seconds)
+ELLIPSES:
+Reading input file....DONE! (time taken: 0.10826 seconds)
+Using Cliquer to compute cliques....DONE! (time taken: 46.5418 seconds)
+Transforming boundary matrix from vertices to faces....DONE! (time taken: 7.74223 seconds)
+Reducing boundary matrix using PHAT....DONE! (time taken: 23.2761 seconds)
+Outputting persistence pairs to 1I27.ph....DONE! (time taken: 2.78578 seconds)
+
+1L9L
+WILD TYPE:
+Reading input file....DONE! (time taken: 0.105983 seconds)
+Using Cliquer to compute cliques....DONE! (time taken: 76.1961 seconds)
+Transforming boundary matrix from vertices to faces....DONE! (time taken: 12.1707 seconds)
+Reducing boundary matrix using PHAT....DONE! (time taken: 36.8286 seconds)
+Outputting persistence pairs to 1L9L.ph....DONE! (time taken: 3.08691 seconds)
+RIGID:
+Reading input file....DONE! (time taken: 0.0745261 seconds)
+Using Cliquer to compute cliques....DONE! (time taken: 78.8043 seconds)
+Transforming boundary matrix from vertices to faces....DONE! (time taken: 12.7557 seconds)
+Reducing boundary matrix using PHAT....DONE! (time taken: 33.8569 seconds)
+Outputting persistence pairs to 1L9L.ph....DONE! (time taken: 3.1885 seconds)
+VOXELS:
+Reading input file....DONE! (time taken: 0.0890776 seconds)
+Using Cliquer to compute cliques....DONE! (time taken: 77.4295 seconds)
+Transforming boundary matrix from vertices to faces....DONE! (time taken: 12.4816 seconds)
+Reducing boundary matrix using PHAT....DONE! (time taken: 38.3696 seconds)
+Outputting persistence pairs to 1L9L.ph....DONE! (time taken: 3.87022 seconds)
+ELLIPSES:
+Reading input file....DONE! (time taken: 0.10525 seconds)
+Using Cliquer to compute cliques....DONE! (time taken: 77.2676 seconds)
+Transforming boundary matrix from vertices to faces....DONE! (time taken: 11.0852 seconds)
+Reducing boundary matrix using PHAT....DONE! (time taken: 37.7075 seconds)
+Outputting persistence pairs to 1L9L.ph....DONE! (time taken: 3.27606 seconds)
+
+1LNI
+WILD TYPE:
+Reading input file....DONE! (time taken: 0.0787734 seconds)
+Using Cliquer to compute cliques....DONE! (time taken: 45.9924 seconds)
+Transforming boundary matrix from vertices to faces....DONE! (time taken: 6.84595 seconds)
+Reducing boundary matrix using PHAT....DONE! (time taken: 23.3003 seconds)
+Outputting persistence pairs to 1LNI.ph....DONE! (time taken: 2.35064 seconds)
+RIGID:
+Reading input file....DONE! (time taken: 0.0853285 seconds)
+Using Cliquer to compute cliques....DONE! (time taken: 46.7206 seconds)
+Transforming boundary matrix from vertices to faces....DONE! (time taken: 7.54934 seconds)
+Reducing boundary matrix using PHAT....DONE! (time taken: 23.3816 seconds)
+Outputting persistence pairs to 1LNI.ph....DONE! (time taken: 2.50668 seconds)
+VOXELS:
+Reading input file....DONE! (time taken: 0.0838251 seconds)
+Using Cliquer to compute cliques....DONE! (time taken: 50.1755 seconds)
+Transforming boundary matrix from vertices to faces....DONE! (time taken: 8.33688 seconds)
+Reducing boundary matrix using PHAT....DONE! (time taken: 23.7068 seconds)
+Outputting persistence pairs to 1LNI.ph....DONE! (time taken: 2.51373 seconds)
+ELLIPSES:
+Reading input file....DONE! (time taken: 0.0634967 seconds)
+Using Cliquer to compute cliques....DONE! (time taken: 47.733 seconds)
+Transforming boundary matrix from vertices to faces....DONE! (time taken: 6.62469 seconds)
+Reducing boundary matrix using PHAT....DONE! (time taken: 23.4199 seconds)
+Outputting persistence pairs to 1LNI.ph....DONE! (time taken: 2.32533 seconds)
+
+1OAI
+WILD TYPE:
+Reading input file....DONE! (time taken: 0.0845814 seconds)
+Using Cliquer to compute cliques....DONE! (time taken: 41.4909 seconds)
+Transforming boundary matrix from vertices to faces....DONE! (time taken: 7.11449 seconds)
+Reducing boundary matrix using PHAT....DONE! (time taken: 22.2334 seconds)
+Outputting persistence pairs to 1OAI.ph....DONE! (time taken: 2.50127 seconds)
+RIGID:
+Reading input file....DONE! (time taken: 0.100262 seconds)
+Using Cliquer to compute cliques....DONE! (time taken: 42.6667 seconds)
+Transforming boundary matrix from vertices to faces....DONE! (time taken: 7.62368 seconds)
+Reducing boundary matrix using PHAT....DONE! (time taken: 20.0809 seconds)
+Outputting persistence pairs to 1OAI.ph....DONE! (time taken: 2.34021 seconds)
+VOXELS:
+Reading input file....DONE! (time taken: 0.0636491 seconds)
+Using Cliquer to compute cliques....DONE! (time taken: 35.7692 seconds)
+Transforming boundary matrix from vertices to faces....DONE! (time taken: 6.65503 seconds)
+Reducing boundary matrix using PHAT....DONE! (time taken: 18.3014 seconds)
+Outputting persistence pairs to 1OAI.ph....DONE! (time taken: 2.25663 seconds)
+ELLIPSES:
+Reading input file....DONE! (time taken: 0.0824435 seconds)
+Using Cliquer to compute cliques....DONE! (time taken: 39.3557 seconds)
+Transforming boundary matrix from vertices to faces....DONE! (time taken: 6.08339 seconds)
+Reducing boundary matrix using PHAT....DONE! (time taken: 19.1961 seconds)
+Outputting persistence pairs to 1OAI.ph....DONE! (time taken: 2.05015 seconds)
+
+1OK0
+WILD TYPE:
+Reading input file....DONE! (time taken: 0.0743671 seconds)
+Using Cliquer to compute cliques....DONE! (time taken: 31.0086 seconds)
+Transforming boundary matrix from vertices to faces....DONE! (time taken: 5.31967 seconds)
+Reducing boundary matrix using PHAT....DONE! (time taken: 14.2876 seconds)
+Outputting persistence pairs to 1OK0.ph....DONE! (time taken: 1.96919 seconds)
+RIGID:
+Reading input file....DONE! (time taken: 0.528437 seconds)
+Using Cliquer to compute cliques....DONE! (time taken: 34.1361 seconds)
+Transforming boundary matrix from vertices to faces....DONE! (time taken: 5.63274 seconds)
+Reducing boundary matrix using PHAT....DONE! (time taken: 16.9398 seconds)
+Outputting persistence pairs to 1OK0.ph....DONE! (time taken: 2.27801 seconds)
+VOXELS:
+Reading input file....DONE! (time taken: 0.0897389 seconds)
+Using Cliquer to compute cliques....DONE! (time taken: 33.0358 seconds)
+Transforming boundary matrix from vertices to faces....DONE! (time taken: 4.35275 seconds)
+Reducing boundary matrix using PHAT....DONE! (time taken: 16.8281 seconds)
+Outputting persistence pairs to 1OK0.ph....DONE! (time taken: 1.80541 seconds)
+ELLIPSES:
+Reading input file....DONE! (time taken: 0.137515 seconds)
+Using Cliquer to compute cliques....DONE! (time taken: 32.6515 seconds)
+Transforming boundary matrix from vertices to faces....DONE! (time taken: 5.58972 seconds)
+Reducing boundary matrix using PHAT....DONE! (time taken: 16.8271 seconds)
+Outputting persistence pairs to 1OK0.ph....DONE! (time taken: 1.81337 seconds)
+
+1PSR
+WILD TYPE:
+Reading input file....DONE! (time taken: 0.0771542 seconds)
+Using Cliquer to compute cliques....DONE! (time taken: 59.1076 seconds)
+Transforming boundary matrix from vertices to faces....DONE! (time taken: 8.98583 seconds)
+Reducing boundary matrix using PHAT....DONE! (time taken: 28.8304 seconds)
+Outputting persistence pairs to 1PSR.ph....DONE! (time taken: 2.97706 seconds)
+RIGID:
+Reading input file....DONE! (time taken: 0.092233 seconds)
+Using Cliquer to compute cliques....DONE! (time taken: 38.6588 seconds)
+Transforming boundary matrix from vertices to faces....DONE! (time taken: 6.42392 seconds)
+Reducing boundary matrix using PHAT....DONE! (time taken: 20.9374 seconds)
+Outputting persistence pairs to 1PSR.ph....DONE! (time taken: 2.41397 seconds)
+VOXELS:
+Reading input file....DONE! (time taken: 0.0809486 seconds)
+Using Cliquer to compute cliques....DONE! (time taken: 49.5784 seconds)
+Transforming boundary matrix from vertices to faces....DONE! (time taken: 8.22772 seconds)
+Reducing boundary matrix using PHAT....DONE! (time taken: 23.9912 seconds)
+Outputting persistence pairs to 1PSR.ph....DONE! (time taken: 2.45982 seconds)
+ELLIPSES:
+Reading input file....DONE! (time taken: 0.074466 seconds)
+Using Cliquer to compute cliques....DONE! (time taken: 57.6545 seconds)
+Transforming boundary matrix from vertices to faces....DONE! (time taken: 9.07534 seconds)
+Reducing boundary matrix using PHAT....DONE! (time taken: 27.6899 seconds)
+Outputting persistence pairs to 1PSR.ph....DONE! (time taken: 3.03022 seconds)
+
+1R6J
+WILD TYPE:
+Reading input file....DONE! (time taken: 0.0926156 seconds)
+Using Cliquer to compute cliques....DONE! (time taken: 63.341 seconds)
+Transforming boundary matrix from vertices to faces....DONE! (time taken: 9.76522 seconds)
+Reducing boundary matrix using PHAT....DONE! (time taken: 32.3661 seconds)
+Outputting persistence pairs to 1R6J.ph....DONE! (time taken: 3.49092 seconds)
+RIGID:
+Reading input file....DONE! (time taken: 0.094943 seconds)
+Using Cliquer to compute cliques....DONE! (time taken: 60.1118 seconds)
+Transforming boundary matrix from vertices to faces....DONE! (time taken: 9.46292 seconds)
+Reducing boundary matrix using PHAT....DONE! (time taken: 25.9629 seconds)
+Outputting persistence pairs to 1R6J.ph....DONE! (time taken: 3.126 seconds)
+VOXELS:
+Reading input file....DONE! (time taken: 0.0931288 seconds)
+Using Cliquer to compute cliques....DONE! (time taken: 65.9833 seconds)
+Transforming boundary matrix from vertices to faces....DONE! (time taken: 10.3656 seconds)
+Reducing boundary matrix using PHAT....DONE! (time taken: 28.5356 seconds)
+Outputting persistence pairs to 1R6J.ph....DONE! (time taken: 3.00392 seconds)
+ELLIPSES:
+Reading input file....DONE! (time taken: 0.0751148 seconds)
+Using Cliquer to compute cliques....DONE! (time taken: 51.5259 seconds)
+Transforming boundary matrix from vertices to faces....DONE! (time taken: 8.48478 seconds)
+Reducing boundary matrix using PHAT....DONE! (time taken: 26.5419 seconds)
+Outputting persistence pairs to 1R6J.ph....DONE! (time taken: 3.05868 seconds)
+
+1T8K
+WILD TYPE:
+Reading input file....DONE! (time taken: 0.135658 seconds)
+Using Cliquer to compute cliques....DONE! (time taken: 78.9022 seconds)
+Transforming boundary matrix from vertices to faces....DONE! (time taken: 13.1366 seconds)
+Reducing boundary matrix using PHAT....DONE! (time taken: 38.0647 seconds)
+Outputting persistence pairs to 1T8K.ph....DONE! (time taken: 4.24763 seconds)
+RIGID:
+Reading input file....DONE! (time taken: 0.538914 seconds)
+Using Cliquer to compute cliques....DONE! (time taken: 107.725 seconds)
+Transforming boundary matrix from vertices to faces....DONE! (time taken: 52.0577 seconds)
+Reducing boundary matrix using PHAT....DONE! (time taken: 55.1066 seconds)
+Outputting persistence pairs to 1T8K.ph....DONE! (time taken: 5.51116 seconds)
+VOXELS:
+Reading input file....DONE! (time taken: 0.63727 seconds)
+Using Cliquer to compute cliques....DONE! (time taken: 121.295 seconds)
+Transforming boundary matrix from vertices to faces....DONE! (time taken: 58.9397 seconds)
+Reducing boundary matrix using PHAT....DONE! (time taken: 58.4042 seconds)
+Outputting persistence pairs to 1T8K.ph....DONE! (time taken: 5.73061 seconds)
+ELLIPSES:
+Reading input file....DONE! (time taken: 0.256144 seconds)
+Using Cliquer to compute cliques....DONE! (time taken: 124.087 seconds)
+Transforming boundary matrix from vertices to faces....DONE! (time taken: 60.504 seconds)
+Reducing boundary matrix using PHAT....DONE! (time taken: 58.4017 seconds)
+Outputting persistence pairs to 1T8K.ph....DONE! (time taken: 5.77305 seconds)
+
+1U07
+WILD TYPE:
+Reading input file....DONE! (time taken: 0.260642 seconds)
+Using Cliquer to compute cliques....DONE! (time taken: 134.4 seconds)
+Transforming boundary matrix from vertices to faces....DONE! (time taken: 61.3902 seconds)
+Reducing boundary matrix using PHAT....DONE! (time taken: 65.6978 seconds)
+Outputting persistence pairs to 1U07.ph....DONE! (time taken: 6.22463 seconds)
+RIGID:
+Reading input file....DONE! (time taken: 0.287265 seconds)
+Using Cliquer to compute cliques....DONE! (time taken: 119.712 seconds)
+Transforming boundary matrix from vertices to faces....DONE! (time taken: 46.7533 seconds)
+Reducing boundary matrix using PHAT....DONE! (time taken: 55.0631 seconds)
+Outputting persistence pairs to 1U07.ph....DONE! (time taken: 5.73569 seconds)
+VOXELS:
+Reading input file....DONE! (time taken: 0.246064 seconds)
+Using Cliquer to compute cliques....DONE! (time taken: 144.909 seconds)
+Transforming boundary matrix from vertices to faces....DONE! (time taken: 66.0206 seconds)
+Reducing boundary matrix using PHAT....DONE! (time taken: 67.7427 seconds)
+Outputting persistence pairs to 1U07.ph....DONE! (time taken: 6.55709 seconds)
+ELLIPSES:
+Reading input file....DONE! (time taken: 0.263538 seconds)
+Using Cliquer to compute cliques....DONE! (time taken: 148.04 seconds)
+Transforming boundary matrix from vertices to faces....DONE! (time taken: 67.4903 seconds)
+Reducing boundary matrix using PHAT....DONE! (time taken: 69.0099 seconds)
+Outputting persistence pairs to 1U07.ph....DONE! (time taken: 6.76529 seconds)
+
+1U2H
+WILD TYPE:
+Reading input file....DONE! (time taken: 0.271116 seconds)
+Using Cliquer to compute cliques....DONE! (time taken: 73.9351 seconds)
+Transforming boundary matrix from vertices to faces....DONE! (time taken: 32.5136 seconds)
+Reducing boundary matrix using PHAT....DONE! (time taken: 36.587 seconds)
+Outputting persistence pairs to 1U2H.ph....DONE! (time taken: 4.19083 seconds)
+RIGID:
+Reading input file....DONE! (time taken: 0.645589 seconds)
+Using Cliquer to compute cliques....DONE! (time taken: 69.8399 seconds)
+Transforming boundary matrix from vertices to faces....DONE! (time taken: 35.722 seconds)
+Reducing boundary matrix using PHAT....DONE! (time taken: 37.1147 seconds)
+Outputting persistence pairs to 1U2H.ph....DONE! (time taken: 4.408 seconds)
+VOXELS:
+Reading input file....DONE! (time taken: 0.251049 seconds)
+Using Cliquer to compute cliques....DONE! (time taken: 65.018 seconds)
+Transforming boundary matrix from vertices to faces....DONE! (time taken: 31.321 seconds)
+Reducing boundary matrix using PHAT....DONE! (time taken: 32.4035 seconds)
+Outputting persistence pairs to 1U2H.ph....DONE! (time taken: 3.71437 seconds)
+ELLIPSES:
+Reading input file....DONE! (time taken: 0.253286 seconds)
+Using Cliquer to compute cliques....DONE! (time taken: 65.151 seconds)
+Transforming boundary matrix from vertices to faces....DONE! (time taken: 30.521 seconds)
+Reducing boundary matrix using PHAT....DONE! (time taken: 31.8617 seconds)
+Outputting persistence pairs to 1U2H.ph....DONE! (time taken: 3.37146 seconds)
+
+1UCS
+WILD TYPE:
+Reading input file....DONE! (time taken: 0.243389 seconds)
+Using Cliquer to compute cliques....DONE! (time taken: 61.8863 seconds)
+Transforming boundary matrix from vertices to faces....DONE! (time taken: 29.8204 seconds)
+Reducing boundary matrix using PHAT....DONE! (time taken: 30.9701 seconds)
+Outputting persistence pairs to 1UCS.ph....DONE! (time taken: 3.58491 seconds)
+RIGID:
+Reading input file....DONE! (time taken: 0.264596 seconds)
+Using Cliquer to compute cliques....DONE! (time taken: 70.1595 seconds)
+Transforming boundary matrix from vertices to faces....DONE! (time taken: 32.0478 seconds)
+Reducing boundary matrix using PHAT....DONE! (time taken: 35.3326 seconds)
+Outputting persistence pairs to 1UCS.ph....DONE! (time taken: 3.8249 seconds)
+VOXELS:
+Reading input file....DONE! (time taken: 0.250541 seconds)
+Using Cliquer to compute cliques....DONE! (time taken: 68.4673 seconds)
+Transforming boundary matrix from vertices to faces....DONE! (time taken: 33.4796 seconds)
+Reducing boundary matrix using PHAT....DONE! (time taken: 34.3229 seconds)
+Outputting persistence pairs to 1UCS.ph....DONE! (time taken: 3.84695 seconds)
+ELLIPSES:
+Reading input file....DONE! (time taken: 0.239732 seconds)
+Using Cliquer to compute cliques....DONE! (time taken: 66.51 seconds)
+Transforming boundary matrix from vertices to faces....DONE! (time taken: 30.3034 seconds)
+Reducing boundary matrix using PHAT....DONE! (time taken: 33.1611 seconds)
+Outputting persistence pairs to 1UCS.ph....DONE! (time taken: 3.82972 seconds)
+
+1USM
+WILD TYPE:
+Reading input file....DONE! (time taken: 0.257169 seconds)
+Using Cliquer to compute cliques....DONE! (time taken: 74.3188 seconds)
+Transforming boundary matrix from vertices to faces....DONE! (time taken: 33.7671 seconds)
+Reducing boundary matrix using PHAT....DONE! (time taken: 35.5699 seconds)
+Outputting persistence pairs to 1USM.ph....DONE! (time taken: 4.08144 seconds)
+RIGID:
+Reading input file....DONE! (time taken: 0.261865 seconds)
+Using Cliquer to compute cliques....DONE! (time taken: 60.3115 seconds)
+Transforming boundary matrix from vertices to faces....DONE! (time taken: 30.6683 seconds)
+Reducing boundary matrix using PHAT....DONE! (time taken: 31.175 seconds)
+Outputting persistence pairs to 1USM.ph....DONE! (time taken: 3.57556 seconds)
+VOXELS:
+Reading input file....DONE! (time taken: 0.276408 seconds)
+Using Cliquer to compute cliques....DONE! (time taken: 62.1749 seconds)
+Transforming boundary matrix from vertices to faces....DONE! (time taken: 28.2007 seconds)
+Reducing boundary matrix using PHAT....DONE! (time taken: 30.0493 seconds)
+Outputting persistence pairs to 1USM.ph....DONE! (time taken: 3.53891 seconds)
+ELLIPSES:
+Reading input file....DONE! (time taken: 0.262156 seconds)
+Using Cliquer to compute cliques....DONE! (time taken: 57.1193 seconds)
+Transforming boundary matrix from vertices to faces....DONE! (time taken: 24.7505 seconds)
+Reducing boundary matrix using PHAT....DONE! (time taken: 27.8998 seconds)
+Outputting persistence pairs to 1USM.ph....DONE! (time taken: 3.34571 seconds)
+
+1VBW
+WILD TYPE:
+Reading input file....DONE! (time taken: 1.4587 seconds)
+Using Cliquer to compute cliques....DONE! (time taken: 56.8681 seconds)
+Transforming boundary matrix from vertices to faces....DONE! (time taken: 27.6046 seconds)
+Reducing boundary matrix using PHAT....DONE! (time taken: 29.8142 seconds)
+Outputting persistence pairs to 1VBW.ph....DONE! (time taken: 3.13034 seconds)
+RIGID:
+Reading input file....DONE! (time taken: 0.270172 seconds)
+Using Cliquer to compute cliques....DONE! (time taken: 76.3451 seconds)
+Transforming boundary matrix from vertices to faces....DONE! (time taken: 39.979 seconds)
+Reducing boundary matrix using PHAT....DONE! (time taken: 44.0243 seconds)
+Outputting persistence pairs to 1VBW.ph....DONE! (time taken: 4.23762 seconds)
+VOXELS:
+Reading input file....DONE! (time taken: 0.259145 seconds)
+Using Cliquer to compute cliques....DONE! (time taken: 63.1571 seconds)
+Transforming boundary matrix from vertices to faces....DONE! (time taken: 28.289 seconds)
+Reducing boundary matrix using PHAT....DONE! (time taken: 31.4538 seconds)
+Outputting persistence pairs to 1VBW.ph....DONE! (time taken: 3.29621 seconds)
+ELLIPSES:
+Reading input file....DONE! (time taken: 0.244654 seconds)
+Using Cliquer to compute cliques....DONE! (time taken: 71.6609 seconds)
+Transforming boundary matrix from vertices to faces....DONE! (time taken: 36.3524 seconds)
+Reducing boundary matrix using PHAT....DONE! (time taken: 37.8063 seconds)
+Outputting persistence pairs to 1VBW.ph....DONE! (time taken: 4.09031 seconds)
+
+1VFY
+WILD TYPE:
+Reading input file....DONE! (time taken: 0.248709 seconds)
+Using Cliquer to compute cliques....DONE! (time taken: 30.9909 seconds)
+Transforming boundary matrix from vertices to faces....DONE! (time taken: 14.4246 seconds)
+Reducing boundary matrix using PHAT....DONE! (time taken: 17.2028 seconds)
+Outputting persistence pairs to 1VFY.ph....DONE! (time taken: 2.26487 seconds)
+RIGID:
+Reading input file....DONE! (time taken: 0.235059 seconds)
+Using Cliquer to compute cliques....DONE! (time taken: 29.1437 seconds)
+Transforming boundary matrix from vertices to faces....DONE! (time taken: 12.4094 seconds)
+Reducing boundary matrix using PHAT....DONE! (time taken: 16.4279 seconds)
+Outputting persistence pairs to 1VFY.ph....DONE! (time taken: 1.93397 seconds)
+VOXELS:
+Reading input file....DONE! (time taken: 0.224371 seconds)
+Using Cliquer to compute cliques....DONE! (time taken: 30.1 seconds)
+Transforming boundary matrix from vertices to faces....DONE! (time taken: 15.1631 seconds)
+Reducing boundary matrix using PHAT....DONE! (time taken: 16.8642 seconds)
+Outputting persistence pairs to 1VFY.ph....DONE! (time taken: 2.16456 seconds)
+ELLIPSES:
+Reading input file....DONE! (time taken: 0.238318 seconds)
+Using Cliquer to compute cliques....DONE! (time taken: 30.1369 seconds)
+Transforming boundary matrix from vertices to faces....DONE! (time taken: 14.946 seconds)
+Reducing boundary matrix using PHAT....DONE! (time taken: 16.6098 seconds)
+Outputting persistence pairs to 1VFY.ph....DONE! (time taken: 2.14164 seconds)
+
+1WXC
+WILD TYPE:
+Reading input file....DONE! (time taken: 0.235589 seconds)
+Using Cliquer to compute cliques....DONE! (time taken: 50.1975 seconds)
+Transforming boundary matrix from vertices to faces....DONE! (time taken: 23.9936 seconds)
+Reducing boundary matrix using PHAT....DONE! (time taken: 26.4137 seconds)
+Outputting persistence pairs to 1WXC.ph....DONE! (time taken: 3.081 seconds)
+RIGID:
+Reading input file....DONE! (time taken: 0.248044 seconds)
+Using Cliquer to compute cliques....DONE! (time taken: 52.7318 seconds)
+Transforming boundary matrix from vertices to faces....DONE! (time taken: 24.2365 seconds)
+Reducing boundary matrix using PHAT....DONE! (time taken: 27.6321 seconds)
+Outputting persistence pairs to 1WXC.ph....DONE! (time taken: 3.21041 seconds)
+VOXELS:
+Reading input file....DONE! (time taken: 0.248628 seconds)
+Using Cliquer to compute cliques....DONE! (time taken: 54.1225 seconds)
+Transforming boundary matrix from vertices to faces....DONE! (time taken: 26.4876 seconds)
+Reducing boundary matrix using PHAT....DONE! (time taken: 28.6237 seconds)
+Outputting persistence pairs to 1WXC.ph....DONE! (time taken: 3.27479 seconds)
+ELLIPSES:
+Reading input file....DONE! (time taken: 0.254213 seconds)
+Using Cliquer to compute cliques....DONE! (time taken: 54.1609 seconds)
+Transforming boundary matrix from vertices to faces....DONE! (time taken: 26.422 seconds)
+Reducing boundary matrix using PHAT....DONE! (time taken: 28.5376 seconds)
+Outputting persistence pairs to 1WXC.ph....DONE! (time taken: 3.19785 seconds)
+
+1Y6X
+WILD TYPE:
+Reading input file....DONE! (time taken: 0.679059 seconds)
+Using Cliquer to compute cliques....DONE! (time taken: 144.373 seconds)
+Transforming boundary matrix from vertices to faces....DONE! (time taken: 66.6467 seconds)
+Reducing boundary matrix using PHAT....DONE! (time taken: 66.1194 seconds)
+Outputting persistence pairs to 1Y6X.ph....DONE! (time taken: 6.53228 seconds)
+RIGID:
+Reading input file....DONE! (time taken: 0.264593 seconds)
+Using Cliquer to compute cliques....DONE! (time taken: 57.1714 seconds)
+Transforming boundary matrix from vertices to faces....DONE! (time taken: 25.6537 seconds)
+Reducing boundary matrix using PHAT....DONE! (time taken: 28.1497 seconds)
+Outputting persistence pairs to 1Y6X.ph....DONE! (time taken: 3.51136 seconds)
+VOXELS:
+Reading input file....DONE! (time taken: 0.668331 seconds)
+Using Cliquer to compute cliques....DONE! (time taken: 101.018 seconds)
+Transforming boundary matrix from vertices to faces....DONE! (time taken: 46.9916 seconds)
+Reducing boundary matrix using PHAT....DONE! (time taken: 47.2225 seconds)
+Outputting persistence pairs to 1Y6X.ph....DONE! (time taken: 4.73516 seconds)
+ELLIPSES:
+Reading input file....DONE! (time taken: 0.268073 seconds)
+Using Cliquer to compute cliques....DONE! (time taken: 144.244 seconds)
+Transforming boundary matrix from vertices to faces....DONE! (time taken: 66.1391 seconds)
+Reducing boundary matrix using PHAT....DONE! (time taken: 66.0993 seconds)
+Outputting persistence pairs to 1Y6X.ph....DONE! (time taken: 6.51753 seconds)
+
+1ZZK
+WILD TYPE:
+Reading input file....DONE! (time taken: 0.237606 seconds)
+Using Cliquer to compute cliques....DONE! (time taken: 98.7301 seconds)
+Transforming boundary matrix from vertices to faces....DONE! (time taken: 47.7825 seconds)
+Reducing boundary matrix using PHAT....DONE! (time taken: 48.4072 seconds)
+Outputting persistence pairs to 1ZZK.ph....DONE! (time taken: 4.88253 seconds)
+RIGID:
+Reading input file....DONE! (time taken: 0.256787 seconds)
+Using Cliquer to compute cliques....DONE! (time taken: 94.1109 seconds)
+Transforming boundary matrix from vertices to faces....DONE! (time taken: 43.9129 seconds)
+Reducing boundary matrix using PHAT....DONE! (time taken: 45.4889 seconds)
+Outputting persistence pairs to 1ZZK.ph....DONE! (time taken: 4.87346 seconds)
+VOXELS:
+Reading input file....DONE! (time taken: 1.05125 seconds)
+Using Cliquer to compute cliques....DONE! (time taken: 106.396 seconds)
+Transforming boundary matrix from vertices to faces....DONE! (time taken: 50.0315 seconds)
+Reducing boundary matrix using PHAT....DONE! (time taken: 51.2425 seconds)
+Outputting persistence pairs to 1ZZK.ph....DONE! (time taken: 4.64485 seconds)
+ELLIPSES:
+Reading input file....DONE! (time taken: 0.230218 seconds)
+Using Cliquer to compute cliques....DONE! (time taken: 91.8518 seconds)
+Transforming boundary matrix from vertices to faces....DONE! (time taken: 43.0298 seconds)
+Reducing boundary matrix using PHAT....DONE! (time taken: 43.8681 seconds)
+Outputting persistence pairs to 1ZZK.ph....DONE! (time taken: 4.64184 seconds)
+
+2B97
+WILD TYPE:
+Reading input file....DONE! (time taken: 0.256318 seconds)
+Using Cliquer to compute cliques....DONE! (time taken: 24.7115 seconds)
+Transforming boundary matrix from vertices to faces....DONE! (time taken: 11.7342 seconds)
+Reducing boundary matrix using PHAT....DONE! (time taken: 13.4729 seconds)
+Outputting persistence pairs to 2B97.ph....DONE! (time taken: 1.70011 seconds)
+RIGID:
+Reading input file....DONE! (time taken: 0.213964 seconds)
+Using Cliquer to compute cliques....DONE! (time taken: 13.251 seconds)
+Transforming boundary matrix from vertices to faces....DONE! (time taken: 7.19805 seconds)
+Reducing boundary matrix using PHAT....DONE! (time taken: 8.4749 seconds)
+Outputting persistence pairs to 2B97.ph....DONE! (time taken: 1.10905 seconds)
+VOXELS:
+Reading input file....DONE! (time taken: 0.221736 seconds)
+Using Cliquer to compute cliques....DONE! (time taken: 14.9283 seconds)
+Transforming boundary matrix from vertices to faces....DONE! (time taken: 7.78781 seconds)
+Reducing boundary matrix using PHAT....DONE! (time taken: 9.24639 seconds)
+Outputting persistence pairs to 2B97.ph....DONE! (time taken: 1.21221 seconds)
+ELLIPSES:
+Reading input file....DONE! (time taken: 0.220012 seconds)
+Using Cliquer to compute cliques....DONE! (time taken: 14.4309 seconds)
+Transforming boundary matrix from vertices to faces....DONE! (time taken: 7.89422 seconds)
+Reducing boundary matrix using PHAT....DONE! (time taken: 8.92392 seconds)
+Outputting persistence pairs to 2B97.ph....DONE! (time taken: 1.26535 seconds)
+
+2CC6
+WILD TYPE:
+Reading input file....DONE! (time taken: 0.246223 seconds)
+Using Cliquer to compute cliques....DONE! (time taken: 38.3423 seconds)
+Transforming boundary matrix from vertices to faces....DONE! (time taken: 18.9935 seconds)
+Reducing boundary matrix using PHAT....DONE! (time taken: 21.4693 seconds)
+Outputting persistence pairs to 2CC6.ph....DONE! (time taken: 2.69026 seconds)
+RIGID:
+Reading input file....DONE! (time taken: 0.256697 seconds)
+Using Cliquer to compute cliques....DONE! (time taken: 36.5292 seconds)
+Transforming boundary matrix from vertices to faces....DONE! (time taken: 18.0613 seconds)
+Reducing boundary matrix using PHAT....DONE! (time taken: 20.1623 seconds)
+Outputting persistence pairs to 2CC6.ph....DONE! (time taken: 2.58394 seconds)
+VOXELS:
+Reading input file....DONE! (time taken: 0.23753 seconds)
+Using Cliquer to compute cliques....DONE! (time taken: 38.2826 seconds)
+Transforming boundary matrix from vertices to faces....DONE! (time taken: 19.6684 seconds)
+Reducing boundary matrix using PHAT....DONE! (time taken: 21.6108 seconds)
+Outputting persistence pairs to 2CC6.ph....DONE! (time taken: 2.66903 seconds)
+ELLIPSES:
+Reading input file....DONE! (time taken: 0.247911 seconds)
+Using Cliquer to compute cliques....DONE! (time taken: 36.2997 seconds)
+Transforming boundary matrix from vertices to faces....DONE! (time taken: 18.4313 seconds)
+Reducing boundary matrix using PHAT....DONE! (time taken: 20.0897 seconds)
+Outputting persistence pairs to 2CC6.ph....DONE! (time taken: 2.50572 seconds)
+
+2COV
+WILD TYPE:
+Reading input file....DONE! (time taken: 0.263681 seconds)
+Using Cliquer to compute cliques....DONE! (time taken: 99.4851 seconds)
+Transforming boundary matrix from vertices to faces....DONE! (time taken: 44.3236 seconds)
+Reducing boundary matrix using PHAT....DONE! (time taken: 46.0509 seconds)
+Outputting persistence pairs to 2COV.ph....DONE! (time taken: 4.37954 seconds)
+RIGID:
+Reading input file....DONE! (time taken: 0.317997 seconds)
+Using Cliquer to compute cliques....DONE! (time taken: 43.6981 seconds)
+Transforming boundary matrix from vertices to faces....DONE! (time taken: 20.8241 seconds)
+Reducing boundary matrix using PHAT....DONE! (time taken: 22.3638 seconds)
+Outputting persistence pairs to 2COV.ph....DONE! (time taken: 2.50041 seconds)
+VOXELS:
+Reading input file....DONE! (time taken: 0.275907 seconds)
+Using Cliquer to compute cliques....DONE! (time taken: 47.3211 seconds)
+Transforming boundary matrix from vertices to faces....DONE! (time taken: 22.6735 seconds)
+Reducing boundary matrix using PHAT....DONE! (time taken: 24.1441 seconds)
+Outputting persistence pairs to 2COV.ph....DONE! (time taken: 2.95503 seconds)
+ELLIPSES:
+Reading input file....DONE! (time taken: 0.290631 seconds)
+Using Cliquer to compute cliques....DONE! (time taken: 57.4158 seconds)
+Transforming boundary matrix from vertices to faces....DONE! (time taken: 28.7879 seconds)
+Reducing boundary matrix using PHAT....DONE! (time taken: 29.0976 seconds)
+Outputting persistence pairs to 2COV.ph....DONE! (time taken: 3.44106 seconds)
+
+2DSX
+WILD TYPE:
+Reading input file....DONE! (time taken: 0.261599 seconds)
+Using Cliquer to compute cliques....DONE! (time taken: 65.6439 seconds)
+Transforming boundary matrix from vertices to faces....DONE! (time taken: 30.8006 seconds)
+Reducing boundary matrix using PHAT....DONE! (time taken: 33.281 seconds)
+Outputting persistence pairs to 2DSX.ph....DONE! (time taken: 3.73682 seconds)
+RIGID:
+Reading input file....DONE! (time taken: 0.248318 seconds)
+Using Cliquer to compute cliques....DONE! (time taken: 33.4482 seconds)
+Transforming boundary matrix from vertices to faces....DONE! (time taken: 16.0543 seconds)
+Reducing boundary matrix using PHAT....DONE! (time taken: 18.3822 seconds)
+Outputting persistence pairs to 2DSX.ph....DONE! (time taken: 2.32539 seconds)
+VOXELS:
+Reading input file....DONE! (time taken: 0.236955 seconds)
+Using Cliquer to compute cliques....DONE! (time taken: 48.4423 seconds)
+Transforming boundary matrix from vertices to faces....DONE! (time taken: 22.7127 seconds)
+Reducing boundary matrix using PHAT....DONE! (time taken: 25.2582 seconds)
+Outputting persistence pairs to 2DSX.ph....DONE! (time taken: 2.6843 seconds)
+ELLIPSES:
+Reading input file....DONE! (time taken: 0.263963 seconds)
+Using Cliquer to compute cliques....DONE! (time taken: 72.0444 seconds)
+Transforming boundary matrix from vertices to faces....DONE! (time taken: 34.2812 seconds)
+Reducing boundary matrix using PHAT....DONE! (time taken: 37.0378 seconds)
+Outputting persistence pairs to 2DSX.ph....DONE! (time taken: 3.57152 seconds)
+
+2FHZ
+WILD TYPE:
+Reading input file....DONE! (time taken: 0.260917 seconds)
+Using Cliquer to compute cliques....DONE! (time taken: 64.7227 seconds)
+Transforming boundary matrix from vertices to faces....DONE! (time taken: 29.0042 seconds)
+Reducing boundary matrix using PHAT....DONE! (time taken: 32.3224 seconds)
+Outputting persistence pairs to 2FHZ.ph....DONE! (time taken: 3.3612 seconds)
+RIGID:
+Reading input file....DONE! (time taken: 0.24934 seconds)
+Using Cliquer to compute cliques....DONE! (time taken: 50.2524 seconds)
+Transforming boundary matrix from vertices to faces....DONE! (time taken: 24.2048 seconds)
+Reducing boundary matrix using PHAT....DONE! (time taken: 25.1524 seconds)
+Outputting persistence pairs to 2FHZ.ph....DONE! (time taken: 2.78508 seconds)
+VOXELS:
+Reading input file....DONE! (time taken: 0.238254 seconds)
+Using Cliquer to compute cliques....DONE! (time taken: 50.0522 seconds)
+Transforming boundary matrix from vertices to faces....DONE! (time taken: 24.1609 seconds)
+Reducing boundary matrix using PHAT....DONE! (time taken: 25.501 seconds)
+Outputting persistence pairs to 2FHZ.ph....DONE! (time taken: 2.76396 seconds)
+ELLIPSES:
+Reading input file....DONE! (time taken: 0.228336 seconds)
+Using Cliquer to compute cliques....DONE! (time taken: 54.004 seconds)
+Transforming boundary matrix from vertices to faces....DONE! (time taken: 24.737 seconds)
+Reducing boundary matrix using PHAT....DONE! (time taken: 27.5211 seconds)
+Outputting persistence pairs to 2FHZ.ph....DONE! (time taken: 2.91139 seconds)
+
+2FMA
+WILD TYPE:
+Reading input file....DONE! (time taken: 0.245247 seconds)
+Using Cliquer to compute cliques....DONE! (time taken: 39.5248 seconds)
+Transforming boundary matrix from vertices to faces....DONE! (time taken: 19.4832 seconds)
+Reducing boundary matrix using PHAT....DONE! (time taken: 21.4305 seconds)
+Outputting persistence pairs to 2FMA.ph....DONE! (time taken: 2.68437 seconds)
+RIGID:
+Reading input file....DONE! (time taken: 0.21876 seconds)
+Using Cliquer to compute cliques....DONE! (time taken: 31.2582 seconds)
+Transforming boundary matrix from vertices to faces....DONE! (time taken: 14.1426 seconds)
+Reducing boundary matrix using PHAT....DONE! (time taken: 17.4247 seconds)
+Outputting persistence pairs to 2FMA.ph....DONE! (time taken: 2.0791 seconds)
+VOXELS:
+Reading input file....DONE! (time taken: 0.228598 seconds)
+Using Cliquer to compute cliques....DONE! (time taken: 36.7377 seconds)
+Transforming boundary matrix from vertices to faces....DONE! (time taken: 18.4277 seconds)
+Reducing boundary matrix using PHAT....DONE! (time taken: 19.9409 seconds)
+Outputting persistence pairs to 2FMA.ph....DONE! (time taken: 2.65413 seconds)
+ELLIPSES:
+Reading input file....DONE! (time taken: 0.226222 seconds)
+Using Cliquer to compute cliques....DONE! (time taken: 36.4684 seconds)
+Transforming boundary matrix from vertices to faces....DONE! (time taken: 19 seconds)
+Reducing boundary matrix using PHAT....DONE! (time taken: 20.2327 seconds)
+Outputting persistence pairs to 2FMA.ph....DONE! (time taken: 2.27969 seconds)
+
+2GOM
+WILD TYPE:
+Reading input file....DONE! (time taken: 0.244481 seconds)
+Using Cliquer to compute cliques....DONE! (time taken: 66.3951 seconds)
+Transforming boundary matrix from vertices to faces....DONE! (time taken: 30.2985 seconds)
+Reducing boundary matrix using PHAT....DONE! (time taken: 33.7425 seconds)
+Outputting persistence pairs to 2GOM.ph....DONE! (time taken: 3.35714 seconds)
+RIGID:
+Reading input file....DONE! (time taken: 0.237196 seconds)
+Using Cliquer to compute cliques....DONE! (time taken: 38.358 seconds)
+Transforming boundary matrix from vertices to faces....DONE! (time taken: 20.0746 seconds)
+Reducing boundary matrix using PHAT....DONE! (time taken: 20.7697 seconds)
+Outputting persistence pairs to 2GOM.ph....DONE! (time taken: 2.35352 seconds)
+VOXELS:
+Reading input file....DONE! (time taken: 0.22863 seconds)
+Using Cliquer to compute cliques....DONE! (time taken: 50.7643 seconds)
+Transforming boundary matrix from vertices to faces....DONE! (time taken: 25.4711 seconds)
+Reducing boundary matrix using PHAT....DONE! (time taken: 26.1672 seconds)
+Outputting persistence pairs to 2GOM.ph....DONE! (time taken: 2.92569 seconds)
+ELLIPSES:
+Reading input file....DONE! (time taken: 0.236794 seconds)
+Using Cliquer to compute cliques....DONE! (time taken: 73.8659 seconds)
+Transforming boundary matrix from vertices to faces....DONE! (time taken: 35.6076 seconds)
+Reducing boundary matrix using PHAT....DONE! (time taken: 37.378 seconds)
+Outputting persistence pairs to 2GOM.ph....DONE! (time taken: 4.01723 seconds)
+
+2HBA
+WILD TYPE:
+Reading input file....DONE! (time taken: 0.249604 seconds)
+Using Cliquer to compute cliques....DONE! (time taken: 29.2768 seconds)
+Transforming boundary matrix from vertices to faces....DONE! (time taken: 14.5407 seconds)
+Reducing boundary matrix using PHAT....DONE! (time taken: 16.3569 seconds)
+Outputting persistence pairs to 2HBA.ph....DONE! (time taken: 1.89995 seconds)
+RIGID:
+Reading input file....DONE! (time taken: 0.248277 seconds)
+Using Cliquer to compute cliques....DONE! (time taken: 33.2345 seconds)
+Transforming boundary matrix from vertices to faces....DONE! (time taken: 15.191 seconds)
+Reducing boundary matrix using PHAT....DONE! (time taken: 18.3139 seconds)
+Outputting persistence pairs to 2HBA.ph....DONE! (time taken: 2.08234 seconds)
+VOXELS:
+Reading input file....DONE! (time taken: 0.23024 seconds)
+Using Cliquer to compute cliques....DONE! (time taken: 33.1235 seconds)
+Transforming boundary matrix from vertices to faces....DONE! (time taken: 17.3606 seconds)
+Reducing boundary matrix using PHAT....DONE! (time taken: 18.3436 seconds)
+Outputting persistence pairs to 2HBA.ph....DONE! (time taken: 2.07043 seconds)
+ELLIPSES:
+Reading input file....DONE! (time taken: 0.30591 seconds)
+Using Cliquer to compute cliques....DONE! (time taken: 29.8912 seconds)
+Transforming boundary matrix from vertices to faces....DONE! (time taken: 14.7219 seconds)
+Reducing boundary matrix using PHAT....DONE! (time taken: 16.7039 seconds)
+Outputting persistence pairs to 2HBA.ph....DONE! (time taken: 1.94709 seconds)
+
+2HIN
+WILD TYPE:
+Reading input file....DONE! (time taken: 0.255259 seconds)
+Using Cliquer to compute cliques....DONE! (time taken: 119.113 seconds)
+Transforming boundary matrix from vertices to faces....DONE! (time taken: 55.8143 seconds)
+Reducing boundary matrix using PHAT....DONE! (time taken: 58.7547 seconds)
+Outputting persistence pairs to 2HIN.ph....DONE! (time taken: 5.51634 seconds)
+RIGID:
+Reading input file....DONE! (time taken: 0.248962 seconds)
+Using Cliquer to compute cliques....DONE! (time taken: 74.2974 seconds)
+Transforming boundary matrix from vertices to faces....DONE! (time taken: 35.5701 seconds)
+Reducing boundary matrix using PHAT....DONE! (time taken: 38.0932 seconds)
+Outputting persistence pairs to 2HIN.ph....DONE! (time taken: 4.149 seconds)
+VOXELS:
+Reading input file....DONE! (time taken: 0.237667 seconds)
+Using Cliquer to compute cliques....DONE! (time taken: 74.2414 seconds)
+Transforming boundary matrix from vertices to faces....DONE! (time taken: 38.0615 seconds)
+Reducing boundary matrix using PHAT....DONE! (time taken: 38.4333 seconds)
+Outputting persistence pairs to 2HIN.ph....DONE! (time taken: 3.76466 seconds)
+ELLIPSES:
+Reading input file....DONE! (time taken: 0.242203 seconds)
+Using Cliquer to compute cliques....DONE! (time taken: 89.0887 seconds)
+Transforming boundary matrix from vertices to faces....DONE! (time taken: 43.4453 seconds)
+Reducing boundary matrix using PHAT....DONE! (time taken: 42.76 seconds)
+Outputting persistence pairs to 2HIN.ph....DONE! (time taken: 4.61361 seconds)
+
+2HS1
+WILD TYPE:
+Reading input file....DONE! (time taken: 0.652046 seconds)
+Using Cliquer to compute cliques....DONE! (time taken: 63.0287 seconds)
+Transforming boundary matrix from vertices to faces....DONE! (time taken: 30.7866 seconds)
+Reducing boundary matrix using PHAT....DONE! (time taken: 31.9506 seconds)
+Outputting persistence pairs to 2HS1.ph....DONE! (time taken: 5.21513 seconds)
+RIGID:
+Reading input file....DONE! (time taken: 0.291649 seconds)
+Using Cliquer to compute cliques....DONE! (time taken: 54.9517 seconds)
+Transforming boundary matrix from vertices to faces....DONE! (time taken: 24.4799 seconds)
+Reducing boundary matrix using PHAT....DONE! (time taken: 28.3595 seconds)
+Outputting persistence pairs to 2HS1.ph....DONE! (time taken: 3.29973 seconds)
+VOXELS:
+Reading input file....DONE! (time taken: 0.234917 seconds)
+Using Cliquer to compute cliques....DONE! (time taken: 46.983 seconds)
+Transforming boundary matrix from vertices to faces....DONE! (time taken: 22.2932 seconds)
+Reducing boundary matrix using PHAT....DONE! (time taken: 24.2319 seconds)
+Outputting persistence pairs to 2HS1.ph....DONE! (time taken: 2.91527 seconds)
+ELLIPSES:
+Reading input file....DONE! (time taken: 0.675143 seconds)
+Using Cliquer to compute cliques....DONE! (time taken: 58.2567 seconds)
+Transforming boundary matrix from vertices to faces....DONE! (time taken: 28.5231 seconds)
+Reducing boundary matrix using PHAT....DONE! (time taken: 29.4399 seconds)
+Outputting persistence pairs to 2HS1.ph....DONE! (time taken: 3.02447 seconds)
+
+2IC6
+WILD TYPE:
+Reading input file....DONE! (time taken: 0.266456 seconds)
+Using Cliquer to compute cliques....DONE! (time taken: 158.615 seconds)
+Transforming boundary matrix from vertices to faces....DONE! (time taken: 69.0925 seconds)
+Reducing boundary matrix using PHAT....DONE! (time taken: 76.0861 seconds)
+Outputting persistence pairs to 2IC6.ph....DONE! (time taken: 6.28026 seconds)
+RIGID:
+Reading input file....DONE! (time taken: 0.261798 seconds)
+Using Cliquer to compute cliques....DONE! (time taken: 105.479 seconds)
+Transforming boundary matrix from vertices to faces....DONE! (time taken: 47.7803 seconds)
+Reducing boundary matrix using PHAT....DONE! (time taken: 54.1048 seconds)
+Outputting persistence pairs to 2IC6.ph....DONE! (time taken: 4.9928 seconds)
+VOXELS:
+Reading input file....DONE! (time taken: 0.243998 seconds)
+Using Cliquer to compute cliques....DONE! (time taken: 163.871 seconds)
+Transforming boundary matrix from vertices to faces....DONE! (time taken: 77.868 seconds)
+Reducing boundary matrix using PHAT....DONE! (time taken: 79.4294 seconds)
+Outputting persistence pairs to 2IC6.ph....DONE! (time taken: 7.26587 seconds)
+ELLIPSES:
+Reading input file....DONE! (time taken: 0.285621 seconds)
+Using Cliquer to compute cliques....DONE! (time taken: 153.861 seconds)
+Transforming boundary matrix from vertices to faces....DONE! (time taken: 71.1697 seconds)
+Reducing boundary matrix using PHAT....DONE! (time taken: 72.9065 seconds)
+Outputting persistence pairs to 2IC6.ph....DONE! (time taken: 6.76739 seconds)
+
+2J8B
+WILD TYPE:
+Reading input file....DONE! (time taken: 0.22438 seconds)
+Using Cliquer to compute cliques....DONE! (time taken: 23.5499 seconds)
+Transforming boundary matrix from vertices to faces....DONE! (time taken: 12.096 seconds)
+Reducing boundary matrix using PHAT....DONE! (time taken: 13.1417 seconds)
+Outputting persistence pairs to 2J8B.ph....DONE! (time taken: 1.79193 seconds)
+RIGID:
+Reading input file....DONE! (time taken: 0.231218 seconds)
+Using Cliquer to compute cliques....DONE! (time taken: 16.3442 seconds)
+Transforming boundary matrix from vertices to faces....DONE! (time taken: 8.43561 seconds)
+Reducing boundary matrix using PHAT....DONE! (time taken: 10.0328 seconds)
+Outputting persistence pairs to 2J8B.ph....DONE! (time taken: 1.47576 seconds)
+VOXELS:
+Reading input file....DONE! (time taken: 0.628566 seconds)
+Using Cliquer to compute cliques....DONE! (time taken: 20.6578 seconds)
+Transforming boundary matrix from vertices to faces....DONE! (time taken: 10.1618 seconds)
+Reducing boundary matrix using PHAT....DONE! (time taken: 11.4631 seconds)
+Outputting persistence pairs to 2J8B.ph....DONE! (time taken: 1.47819 seconds)
+ELLIPSES:
+Reading input file....DONE! (time taken: 0.2215 seconds)
+Using Cliquer to compute cliques....DONE! (time taken: 26.3809 seconds)
+Transforming boundary matrix from vertices to faces....DONE! (time taken: 13.2918 seconds)
+Reducing boundary matrix using PHAT....DONE! (time taken: 14.7443 seconds)
+Outputting persistence pairs to 2J8B.ph....DONE! (time taken: 2.01882 seconds)
+
+2P5K
+WILD TYPE:
+Reading input file....DONE! (time taken: 0.264549 seconds)
+Using Cliquer to compute cliques....DONE! (time taken: 94.6501 seconds)
+Transforming boundary matrix from vertices to faces....DONE! (time taken: 42.0887 seconds)
+Reducing boundary matrix using PHAT....DONE! (time taken: 44.9438 seconds)
+Outputting persistence pairs to 2P5K.ph....DONE! (time taken: 4.15165 seconds)
+RIGID:
+Reading input file....DONE! (time taken: 0.250845 seconds)
+Using Cliquer to compute cliques....DONE! (time taken: 80.3614 seconds)
+Transforming boundary matrix from vertices to faces....DONE! (time taken: 38.925 seconds)
+Reducing boundary matrix using PHAT....DONE! (time taken: 40.8979 seconds)
+Outputting persistence pairs to 2P5K.ph....DONE! (time taken: 4.39131 seconds)
+VOXELS:
+Reading input file....DONE! (time taken: 0.26619 seconds)
+Using Cliquer to compute cliques....DONE! (time taken: 109.24 seconds)
+Transforming boundary matrix from vertices to faces....DONE! (time taken: 50.1496 seconds)
+Reducing boundary matrix using PHAT....DONE! (time taken: 52.9682 seconds)
+Outputting persistence pairs to 2P5K.ph....DONE! (time taken: 5.27631 seconds)
+ELLIPSES:
+Reading input file....DONE! (time taken: 0.264176 seconds)
+Using Cliquer to compute cliques....DONE! (time taken: 111.764 seconds)
+Transforming boundary matrix from vertices to faces....DONE! (time taken: 53.9402 seconds)
+Reducing boundary matrix using PHAT....DONE! (time taken: 53.9029 seconds)
+Outputting persistence pairs to 2P5K.ph....DONE! (time taken: 5.36886 seconds)
+
+2R2Z
+WILD TYPE:
+Reading input file....DONE! (time taken: 0.240647 seconds)
+Using Cliquer to compute cliques....DONE! (time taken: 65.8366 seconds)
+Transforming boundary matrix from vertices to faces....DONE! (time taken: 31.4837 seconds)
+Reducing boundary matrix using PHAT....DONE! (time taken: 33.8952 seconds)
+Outputting persistence pairs to 2R2Z.ph....DONE! (time taken: 3.90234 seconds)
+RIGID:
+Reading input file....DONE! (time taken: 0.251893 seconds)
+Using Cliquer to compute cliques....DONE! (time taken: 45.1299 seconds)
+Transforming boundary matrix from vertices to faces....DONE! (time taken: 21.6933 seconds)
+Reducing boundary matrix using PHAT....DONE! (time taken: 23.2952 seconds)
+Outputting persistence pairs to 2R2Z.ph....DONE! (time taken: 2.89965 seconds)
+VOXELS:
+Reading input file....DONE! (time taken: 0.242461 seconds)
+Using Cliquer to compute cliques....DONE! (time taken: 58.6575 seconds)
+Transforming boundary matrix from vertices to faces....DONE! (time taken: 26.805 seconds)
+Reducing boundary matrix using PHAT....DONE! (time taken: 29.3834 seconds)
+Outputting persistence pairs to 2R2Z.ph....DONE! (time taken: 3.464 seconds)
+ELLIPSES:
+Reading input file....DONE! (time taken: 0.26118 seconds)
+Using Cliquer to compute cliques....DONE! (time taken: 54.5391 seconds)
+Transforming boundary matrix from vertices to faces....DONE! (time taken: 23.7339 seconds)
+Reducing boundary matrix using PHAT....DONE! (time taken: 28.037 seconds)
+Outputting persistence pairs to 2R2Z.ph....DONE! (time taken: 3.3709 seconds)
+
+2WJ5
+WILD TYPE:
+Reading input file....DONE! (time taken: 0.233846 seconds)
+Using Cliquer to compute cliques....DONE! (time taken: 55.2304 seconds)
+Transforming boundary matrix from vertices to faces....DONE! (time taken: 26.2803 seconds)
+Reducing boundary matrix using PHAT....DONE! (time taken: 27.6704 seconds)
+Outputting persistence pairs to 2WJ5.ph....DONE! (time taken: 3.35374 seconds)
+RIGID:
+Reading input file....DONE! (time taken: 0.2441 seconds)
+Using Cliquer to compute cliques....DONE! (time taken: 47.1102 seconds)
+Transforming boundary matrix from vertices to faces....DONE! (time taken: 22.4445 seconds)
+Reducing boundary matrix using PHAT....DONE! (time taken: 24.0728 seconds)
+Outputting persistence pairs to 2WJ5.ph....DONE! (time taken: 2.95255 seconds)
+VOXELS:
+Reading input file....DONE! (time taken: 0.230201 seconds)
+Using Cliquer to compute cliques....DONE! (time taken: 48.3737 seconds)
+Transforming boundary matrix from vertices to faces....DONE! (time taken: 21.4466 seconds)
+Reducing boundary matrix using PHAT....DONE! (time taken: 25.0832 seconds)
+Outputting persistence pairs to 2WJ5.ph....DONE! (time taken: 3.02639 seconds)
+ELLIPSES:
+Reading input file....DONE! (time taken: 0.245392 seconds)
+Using Cliquer to compute cliques....DONE! (time taken: 52.0398 seconds)
+Transforming boundary matrix from vertices to faces....DONE! (time taken: 25.2122 seconds)
+Reducing boundary matrix using PHAT....DONE! (time taken: 26.6711 seconds)
+Outputting persistence pairs to 2WJ5.ph....DONE! (time taken: 3.28243 seconds)
+
+3DNJ
+WILD TYPE:
+Reading input file....DONE! (time taken: 0.241461 seconds)
+Using Cliquer to compute cliques....DONE! (time taken: 59.8905 seconds)
+Transforming boundary matrix from vertices to faces....DONE! (time taken: 28.0613 seconds)
+Reducing boundary matrix using PHAT....DONE! (time taken: 30.5873 seconds)
+Outputting persistence pairs to 3DNJ.ph....DONE! (time taken: 3.51399 seconds)
+RIGID:
+Reading input file....DONE! (time taken: 0.261524 seconds)
+Using Cliquer to compute cliques....DONE! (time taken: 60.1682 seconds)
+Transforming boundary matrix from vertices to faces....DONE! (time taken: 29.0548 seconds)
+Reducing boundary matrix using PHAT....DONE! (time taken: 30.6159 seconds)
+Outputting persistence pairs to 3DNJ.ph....DONE! (time taken: 3.53706 seconds)
+VOXELS:
+Reading input file....DONE! (time taken: 0.234918 seconds)
+Using Cliquer to compute cliques....DONE! (time taken: 63.1199 seconds)
+Transforming boundary matrix from vertices to faces....DONE! (time taken: 31.5642 seconds)
+Reducing boundary matrix using PHAT....DONE! (time taken: 32.0774 seconds)
+Outputting persistence pairs to 3DNJ.ph....DONE! (time taken: 3.6691 seconds)
+ELLIPSES:
+Reading input file....DONE! (time taken: 0.241496 seconds)
+Using Cliquer to compute cliques....DONE! (time taken: 68.88 seconds)
+Transforming boundary matrix from vertices to faces....DONE! (time taken: 34.3615 seconds)
+Reducing boundary matrix using PHAT....DONE! (time taken: 34.8984 seconds)
+Outputting persistence pairs to 3DNJ.ph....DONE! (time taken: 3.88966 seconds)
+
+3G21
+WILD TYPE:
+Reading input file....DONE! (time taken: 0.310636 seconds)
+Using Cliquer to compute cliques....DONE! (time taken: 129.855 seconds)
+Transforming boundary matrix from vertices to faces....DONE! (time taken: 61.4058 seconds)
+Reducing boundary matrix using PHAT....DONE! (time taken: 62.5328 seconds)
+Outputting persistence pairs to 3G21.ph....DONE! (time taken: 5.9518 seconds)
+RIGID:
+Reading input file....DONE! (time taken: 1.09774 seconds)
+Using Cliquer to compute cliques....DONE! (time taken: 84.5706 seconds)
+Transforming boundary matrix from vertices to faces....DONE! (time taken: 39.6815 seconds)
+Reducing boundary matrix using PHAT....DONE! (time taken: 43.2019 seconds)
+Outputting persistence pairs to 3G21.ph....DONE! (time taken: 4.54733 seconds)
+VOXELS:
+Reading input file....DONE! (time taken: 0.258621 seconds)
+Using Cliquer to compute cliques....DONE! (time taken: 91.0171 seconds)
+Transforming boundary matrix from vertices to faces....DONE! (time taken: 44.2748 seconds)
+Reducing boundary matrix using PHAT....DONE! (time taken: 43.991 seconds)
+Outputting persistence pairs to 3G21.ph....DONE! (time taken: 4.62058 seconds)
+ELLIPSES:
+Reading input file....DONE! (time taken: 0.259631 seconds)
+Using Cliquer to compute cliques....DONE! (time taken: 108.704 seconds)
+Transforming boundary matrix from vertices to faces....DONE! (time taken: 51.1376 seconds)
+Reducing boundary matrix using PHAT....DONE! (time taken: 52.9584 seconds)
+Outputting persistence pairs to 3G21.ph....DONE! (time taken: 5.22427 seconds)
+
+3G36
+WILD TYPE:
+Reading input file....DONE! (time taken: 0.659378 seconds)
+Using Cliquer to compute cliques....DONE! (time taken: 53.1897 seconds)
+Transforming boundary matrix from vertices to faces....DONE! (time taken: 23.5168 seconds)
+Reducing boundary matrix using PHAT....DONE! (time taken: 27.9182 seconds)
+Outputting persistence pairs to 3G36.ph....DONE! (time taken: 3.30651 seconds)
+RIGID:
+Reading input file....DONE! (time taken: 0.25846 seconds)
+Using Cliquer to compute cliques....DONE! (time taken: 42.7047 seconds)
+Transforming boundary matrix from vertices to faces....DONE! (time taken: 22.0152 seconds)
+Reducing boundary matrix using PHAT....DONE! (time taken: 22.593 seconds)
+Outputting persistence pairs to 3G36.ph....DONE! (time taken: 2.79773 seconds)
+VOXELS:
+Reading input file....DONE! (time taken: 0.240101 seconds)
+Using Cliquer to compute cliques....DONE! (time taken: 69.6391 seconds)
+Transforming boundary matrix from vertices to faces....DONE! (time taken: 34.8511 seconds)
+Reducing boundary matrix using PHAT....DONE! (time taken: 36.0373 seconds)
+Outputting persistence pairs to 3G36.ph....DONE! (time taken: 3.95028 seconds)
+ELLIPSES:
+Reading input file....DONE! (time taken: 0.258685 seconds)
+Using Cliquer to compute cliques....DONE! (time taken: 69.0602 seconds)
+Transforming boundary matrix from vertices to faces....DONE! (time taken: 32.4709 seconds)
+Reducing boundary matrix using PHAT....DONE! (time taken: 36.0242 seconds)
+Outputting persistence pairs to 3G36.ph....DONE! (time taken: 3.75388 seconds)
+
+3HFO
+WILD TYPE:
+Reading input file....DONE! (time taken: 0.239782 seconds)
+Using Cliquer to compute cliques....DONE! (time taken: 50.9539 seconds)
+Transforming boundary matrix from vertices to faces....DONE! (time taken: 25.1704 seconds)
+Reducing boundary matrix using PHAT....DONE! (time taken: 26.5513 seconds)
+Outputting persistence pairs to 3HFO.ph....DONE! (time taken: 3.28672 seconds)
+RIGID:
+Reading input file....DONE! (time taken: 0.651917 seconds)
+Using Cliquer to compute cliques....DONE! (time taken: 33.0021 seconds)
+Transforming boundary matrix from vertices to faces....DONE! (time taken: 17.1615 seconds)
+Reducing boundary matrix using PHAT....DONE! (time taken: 18.538 seconds)
+Outputting persistence pairs to 3HFO.ph....DONE! (time taken: 2.43441 seconds)
+VOXELS:
+Reading input file....DONE! (time taken: 0.248908 seconds)
+Using Cliquer to compute cliques....DONE! (time taken: 37.6785 seconds)
+Transforming boundary matrix from vertices to faces....DONE! (time taken: 19.5474 seconds)
+Reducing boundary matrix using PHAT....DONE! (time taken: 20.9332 seconds)
+Outputting persistence pairs to 3HFO.ph....DONE! (time taken: 2.48253 seconds)
+ELLIPSES:
+Reading input file....DONE! (time taken: 0.643375 seconds)
+Using Cliquer to compute cliques....DONE! (time taken: 37.4457 seconds)
+Transforming boundary matrix from vertices to faces....DONE! (time taken: 17.67 seconds)
+Reducing boundary matrix using PHAT....DONE! (time taken: 20.6369 seconds)
+Outputting persistence pairs to 3HFO.ph....DONE! (time taken: 2.65593 seconds)
+
+3I2Z
+WILD TYPE:
+Reading input file....DONE! (time taken: 0.252646 seconds)
+Using Cliquer to compute cliques....DONE! (time taken: 59.9032 seconds)
+Transforming boundary matrix from vertices to faces....DONE! (time taken: 28.1568 seconds)
+Reducing boundary matrix using PHAT....DONE! (time taken: 30.5535 seconds)
+Outputting persistence pairs to 3I2Z.ph....DONE! (time taken: 3.48187 seconds)
+RIGID:
+Reading input file....DONE! (time taken: 0.240595 seconds)
+Using Cliquer to compute cliques....DONE! (time taken: 42.6401 seconds)
+Transforming boundary matrix from vertices to faces....DONE! (time taken: 21.6751 seconds)
+Reducing boundary matrix using PHAT....DONE! (time taken: 22.3416 seconds)
+Outputting persistence pairs to 3I2Z.ph....DONE! (time taken: 2.68424 seconds)
+VOXELS:
+Reading input file....DONE! (time taken: 0.644029 seconds)
+Using Cliquer to compute cliques....DONE! (time taken: 55.3661 seconds)
+Transforming boundary matrix from vertices to faces....DONE! (time taken: 26.906 seconds)
+Reducing boundary matrix using PHAT....DONE! (time taken: 28.3777 seconds)
+Outputting persistence pairs to 3I2Z.ph....DONE! (time taken: 3.31996 seconds)
+ELLIPSES:
+Reading input file....DONE! (time taken: 0.241585 seconds)
+Using Cliquer to compute cliques....DONE! (time taken: 62.4217 seconds)
+Transforming boundary matrix from vertices to faces....DONE! (time taken: 30.9762 seconds)
+Reducing boundary matrix using PHAT....DONE! (time taken: 31.6879 seconds)
+Outputting persistence pairs to 3I2Z.ph....DONE! (time taken: 3.64504 seconds)
+
+3JTZ
+WILD TYPE:
+Reading input file....DONE! (time taken: 0.290261 seconds)
+Using Cliquer to compute cliques....DONE! (time taken: 157.156 seconds)
+Transforming boundary matrix from vertices to faces....DONE! (time taken: 72.68 seconds)
+Reducing boundary matrix using PHAT....DONE! (time taken: 75.9842 seconds)
+Outputting persistence pairs to 3JTZ.ph....DONE! (time taken: 6.85416 seconds)
+RIGID:
+Reading input file....DONE! (time taken: 0.240942 seconds)
+Using Cliquer to compute cliques....DONE! (time taken: 59.7554 seconds)
+Transforming boundary matrix from vertices to faces....DONE! (time taken: 28.4032 seconds)
+Reducing boundary matrix using PHAT....DONE! (time taken: 30.9434 seconds)
+Outputting persistence pairs to 3JTZ.ph....DONE! (time taken: 3.53996 seconds)
+VOXELS:
+Reading input file....DONE! (time taken: 0.286743 seconds)
+Using Cliquer to compute cliques....DONE! (time taken: 160.519 seconds)
+Transforming boundary matrix from vertices to faces....DONE! (time taken: 76.9001 seconds)
+Reducing boundary matrix using PHAT....DONE! (time taken: 77.4159 seconds)
+Outputting persistence pairs to 3JTZ.ph....DONE! (time taken: 6.98141 seconds)
+ELLIPSES:
+Reading input file....DONE! (time taken: 0.276877 seconds)
+Using Cliquer to compute cliques....DONE! (time taken: 162.708 seconds)
+Transforming boundary matrix from vertices to faces....DONE! (time taken: 77.2996 seconds)
+Reducing boundary matrix using PHAT....DONE! (time taken: 76.9373 seconds)
+Outputting persistence pairs to 3JTZ.ph....DONE! (time taken: 6.47675 seconds)

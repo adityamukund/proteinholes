@@ -56,9 +56,9 @@ CMAKE_BINARY_DIR = /usr/project/dlab/Users/am439/holes/h2phat/build
 # Target rules for target CMakeFiles/phatclique.dir
 
 # All Build rule for target.
+CMakeFiles/phatclique.dir/all: cliquer-1.21/CMakeFiles/reorder.dir/all
 CMakeFiles/phatclique.dir/all: cliquer-1.21/CMakeFiles/cliquer.dir/all
 CMakeFiles/phatclique.dir/all: cliquer-1.21/CMakeFiles/graph.dir/all
-CMakeFiles/phatclique.dir/all: cliquer-1.21/CMakeFiles/reorder.dir/all
 	$(MAKE) -f CMakeFiles/phatclique.dir/build.make CMakeFiles/phatclique.dir/depend
 	$(MAKE) -f CMakeFiles/phatclique.dir/build.make CMakeFiles/phatclique.dir/build
 	$(CMAKE_COMMAND) -E cmake_progress_report /usr/project/dlab/Users/am439/holes/h2phat/build/CMakeFiles  3

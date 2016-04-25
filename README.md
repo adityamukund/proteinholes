@@ -51,4 +51,5 @@ reduces the overall accuracy of the results, but sometimes you have to do that
 so the thing actually finishes.  
 
 I've only been able to get this thing to not crash when WS is less than 10,000
-rows long, but YMMV.  
+rows long when using my laptop, but YMMV. Running these things on a cluster with
+at least 32gb, preferably 64gb, would be a better idea.  
