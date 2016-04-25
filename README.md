@@ -25,7 +25,7 @@ compiled data
 classifier contains attempts to train classifiers on the dataset to look at the 
 similarity of various types of designed proteins
 
-test contains initial systems we've tested on -- as of 2016/04/21, these include:
+test contains initial systems we used to make sure that the workflow was usable:
 
 1. a single alpha helix (helix)
 2. a single beta sheet (beta_sheet)
