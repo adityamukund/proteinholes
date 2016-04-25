@@ -3,17 +3,16 @@ Euclidean distances:
 wtr ==> {'ell': 16, 'vox': 13, 'wtr': 10}
 
 Training data: ell vs vox
-wtr ==> {'vox': 9, 'ell': 30}
+wtr ==> {'vox': 8, 'ell': 31}
 
 Training data: rig vs vox
-ell ==> {'rig': 19, 'vox': 20}
+ell ==> {'vox': 18, 'rig': 21}
 
 Training data: ell vs rig
-vox ==> {'rig': 7, 'ell': 32}
+vox ==> {'rig': 9, 'ell': 30}
 
 Training data: vox vs ell
-rig ==> {'vox': 19, 'ell': 20}
+rig ==> {'ell': 24, 'vox': 15}
 
 Training data: con vs rig
-wtr ==> {'con': 36, 'rig': 3}
-
+wtr ==> {'rig': 2, 'con': 37}
