@@ -1,0 +1,18 @@
+Loading data...
+Euclidean distances:
+wtr ==> {'ell': 17, 'vox': 14, 'wtr': 8}
+
+Training data: ell vs vox
+wtr ==> {'ell': 28, 'vox': 11}
+
+Training data: rig vs vox
+ell ==> {'vox': 20, 'rig': 19}
+
+Training data: ell vs rig
+vox ==> {'ell': 27, 'rig': 12}
+
+Training data: vox vs ell
+rig ==> {'vox': 17, 'ell': 22}
+
+Training data: con vs rig
+wtr ==> {'rig': 5, 'con': 34}
