@@ -49,7 +49,7 @@ for i in range(39):
         counts[1] += 1
     elif (mw==rw):
         counts[2] += 1
-print("wtr ==> {'ell': "+str(counts[0])+", 'vox': "+str(counts[1])+", 'wtr': "+str(counts[2])+"}")
+print("wtr ==> {'ell': "+str(counts[0])+", 'vox': "+str(counts[1])+", 'rig': "+str(counts[2])+"}")
 
 def test_clf(a, b, t, la, lb, lt):
     print()
