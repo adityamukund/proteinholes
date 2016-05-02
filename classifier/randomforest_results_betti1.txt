@@ -1,18 +1,18 @@
 Loading data...
 Euclidean distances:
-wtr ==> {'ell': 17, 'vox': 14, 'wtr': 8}
+wtr ==> {'ell': 17, 'vox': 14, 'rig': 9}
 
 Training data: ell vs vox
-wtr ==> {'ell': 28, 'vox': 11}
+wtr ==> {'vox': 13, 'ell': 27}
 
 Training data: rig vs vox
-ell ==> {'vox': 20, 'rig': 19}
+ell ==> {'vox': 15, 'rig': 25}
 
 Training data: ell vs rig
-vox ==> {'ell': 27, 'rig': 12}
+vox ==> {'ell': 26, 'rig': 14}
 
 Training data: vox vs ell
-rig ==> {'vox': 17, 'ell': 22}
+rig ==> {'vox': 16, 'ell': 24}
 
 Training data: con vs rig
-wtr ==> {'rig': 5, 'con': 34}
+wtr ==> {'con': 34, 'rig': 6}

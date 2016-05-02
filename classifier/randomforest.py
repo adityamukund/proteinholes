@@ -6,12 +6,13 @@ import os
 import csv
 from sklearn.ensemble import RandomForestClassifier
 
+sr=0
 
 print("Loading data...")
-ell = np.loadtxt(open("persistences/persist_ell.csv", "rb"), delimiter=",", skiprows=1)
-vox = np.loadtxt(open("persistences/persist_vox.csv", "rb"), delimiter=",", skiprows=1)
-wtr = np.loadtxt(open("persistences/persist_wtr.csv", "rb"), delimiter=",", skiprows=1)
-rig = np.loadtxt(open("persistences/persist_rig.csv", "rb"), delimiter=",", skiprows=1)
+ell = np.loadtxt(open("persistences/persist_ell.csv", "rb"), delimiter=",", skiprows=sr)
+vox = np.loadtxt(open("persistences/persist_vox.csv", "rb"), delimiter=",", skiprows=sr)
+wtr = np.loadtxt(open("persistences/persist_wtr.csv", "rb"), delimiter=",", skiprows=sr)
+rig = np.loadtxt(open("persistences/persist_rig.csv", "rb"), delimiter=",", skiprows=sr)
 con = np.vstack((ell, vox)).tolist()
 
 label_e = ["ell"]*ell.shape[0]
@@ -26,13 +27,13 @@ vox = vox[:,100:]
 wtr = wtr[:,100:]
 rig = rig[:,100:]
 
-clf = RandomForestClassifier(n_estimators=100)
+clf = RandomForestClassifier(n_estimators=1000)
 
 
 counts = [0, 0, 0]
 
 print("Euclidean distances:")
-for i in range(39):
+for i in range(40-sr):
     e = np.asarray(ell[i])
     v = np.asarray(vox[i])
     w = np.asarray(wtr[i])
